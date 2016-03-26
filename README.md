@@ -1,6 +1,4 @@
-# Vanilla starter
-
-A quick starter using Jade, Sass, Babel & Browser sync.
+# Bassment's Website
 
 ## Commands
 
