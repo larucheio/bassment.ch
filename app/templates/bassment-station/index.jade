@@ -1,0 +1,15 @@
+extends ../layout/base.jade
+
+block content
+  h1(class="f4 f3-ns") Bassment! Station!
+  p Tous les premiers et troisièmes jeudis du mois les choses se passent sur Radio-Usine!!! Bassment! y dirige d’une main de fer son émission consacrée à la musique de 21h jusqu’à sa fin!
+
+  h2 Podcasts
+  p
+    audio(id="audio" preload="auto" tabindex="0" controls="" type="audio/mpeg" class="w-100")
+      source(type="audio/mp3" src="")
+      | Votre navigateur ne supporte pas l'élément #[code audio]
+      
+  ul#playlist(class="list pl0")
+
+  script(src="/js/player.js")

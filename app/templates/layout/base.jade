@@ -2,11 +2,33 @@ doctype html
 html(lang='en')
   head
     meta(charset='utf-8')
-    title Starter
-    meta(name='description', content='Starter')
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    title Association Bassment!
+    meta(name='description', content='Association Bassment!')
     meta(name='author', content='rspt')
     link(rel="stylesheet", href="https://s3-us-west-1.amazonaws.com/tachyons-css/tachyons.min.css")
-    link(rel='stylesheet', href='css/styles.css?v=1.0')
+    link(rel='stylesheet', href='/css/styles.css?v=1.0')
   body
-    block content
-    script(src='js/app.js')
+    nav(class="db dt-ns w-100 border-box pa3 ph5-ns")
+      a(class="db dtc-ns v-mid mid-gray link dim w-100 w-25-ns tc tl-ns mb2 mb0-ns" href="/" title="Bassment!")
+        img(src="/images/bassment-logo.png" class="dib w2 h2" alt="Bassment! Logo")
+      div(class="db dtc-ns v-mid w-100 w-75-ns tc tr-ns")
+        a(class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="/" title="Accueil") Accueil
+        a(class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="/rosalie" title="Rosalie") Rosalie
+        a(class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="/sound-system" title="Sound System") Sound System
+        a(class="link dim dark-gray f6 f5-ns dib" href="/bassment-station" title="Bassment! Station!") Bassment! Station!
+    
+    section(class="pa3 pa5-ns bt b--black-10 black-70")
+      block content
+      
+    footer(class="pv4 ph3 ph5-ns tc")
+      a(class="link dim gray dib h2 w3 br-100 mr3 " href="https://www.facebook.com/4Bassment/" title="")
+        svg(class="w2" data-icon="facebook" viewBox="0 0 32 32" style="fill:currentcolor")
+          title facebook icon
+          path(d="M8 12 L13 12 L13 8 C13 2 17 1 24 2 L24 7 C20 7 19 7 19 10 L19 12 L24 12 L23 18 L19 18 L19 30 L13 30 L13 18 L8 18 z")
+        small(class="db tc") Facebook
+      a(class="link dim gray dib h2 w3 br-100 mr3 " href="https://github.com/rspt/bassment.ch" title="")
+        svg(class="w2" data-icon="github" viewBox="0 0 32 32" style="fill:currentcolor")
+          title github icon
+          path(d="M0 18 C0 12 3 10 3 9 C2.5 7 2.5 4 3 3 C6 3 9 5 10 6 C12 5 14 5 16 5 C18 5 20 5 22 6 C23 5 26 3 29 3 C29.5 4 29.5 7 29 9 C29 10 32 12 32 18 C32 25 30 30 16 30 C2 30 0 25 0 18 M3 20 C3 24 4 28 16 28 C28 28 29 24 29 20 C29 16 28 14 16 14 C4 14 3 16 3 20 M8 21 A1.5 2.5 0 0 0 13 21 A1.5 2.5 0 0 0 8 21 M24 21 A1.5 2.5 0 0 0 19 21 A1.5 2.5 0 0 0 24 21 z")
+        small(class="db tc") GitHub
