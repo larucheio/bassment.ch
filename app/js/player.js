@@ -28,6 +28,18 @@ function initPlayer(playlist) {
 
 const playlist = [
   {
+    title: '2016.03.31',
+    url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2016.03.31.mp3',
+  },
+  {
+    title: '2016.03.17',
+    url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2016.03.17.mp3',
+  },
+  {
+    title: '2016.02.04',
+    url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2016.02.04.mp3',
+  },
+  {
     title: '2016.01.21',
     url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2016.01.21.mp3',
   },
