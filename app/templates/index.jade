@@ -1,6 +1,19 @@
 extends ./layout/base.jade
 
 block content
-  h1(class="f4 f3-ns") Association Bassment!
-  p L'association Bassment! à pour buts la promotion de la culture, l’organisation de manifestations culturelles et la favorisation de l’accès à la culture.
-  p Bassment! est notamment derrière des projets comme la #[a(href="/rosalie") Rosalie] (voiture à pédale rouge), l'émission de radio #[a(href="/bassment-station") Bassment! Station!] et le #[a(href="/sound-system") Bassment! Sound System] et promeut plusieurs DJs et artistes.
+  section(class="home")
+    a(class="home__card" href="/events")
+      img(src="/images/events.jpg")
+      h2 Événements
+    a(class="home__card" href="/rosalie")
+      img(src="/images/rosalie.jpg")
+      h2 Rosalie
+    a(class="home__card" href="/soundsystem")
+      img(src="/images/soundsystem.jpg")
+      h2 Sound System
+    a(class="home__card" href="/bassmentstation")
+      img(src="/images/association.png")
+      h2 Bassment! Station
+    a(class="home__card" href="/association")
+      img(src="/images/association.png")
+      h2 Association
