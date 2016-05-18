@@ -10,25 +10,23 @@ html(lang='en')
     meta(name='author', content='rspt')
     link(rel='stylesheet', href='/css/styles.css?v=1.0')
   body
-    nav(class=rosalie)
+    nav(class="navbar")
       a(href="/" title="Bassment!")
         img(src="/images/bassment-logo.svg" alt="Bassment! Logo")
     
     main
       block content
       
-    footer
-      ul
-        li
-          a(href="https://www.facebook.com/4Bassment/")
+    footer.container-fluid
+      .row
+        .col-xs-12.col-md-6.text-xs-center
+          a(class="navbar-brand" href="mailto:info@bassment.ch") info@bassment.ch
+        .col-xs-12.col-md-6.pull-md-right.text-xs-center
+          a(href="https://www.facebook.com/4Bassment/" class="nav-link")
             img(src="/images/vendors/facebook.svg" title="Facebook")
-        li
-          a(href="https://www.instagram.com/bassmentgva/")
+          a(href="https://www.instagram.com/bassmentgva/" class="nav-link")
             img(src="/images/vendors/instagram.svg" title="Instagram")
-        li
-          a(href="https://soundcloud.com/4bassment")
+          a(href="https://soundcloud.com/4bassment" class="nav-link")
             img(src="/images/vendors/soundcloud.svg" title="Soundcloud")
-        li
-          a(href="https://www.mixcloud.com/4bassment/")
-            img(src="/images/vendors/mixcloud.svg" title="Mixcloud")
-        
+          a(href="https://www.mixcloud.com/4bassment/" class="nav-link")
+            img(src="/images/vendors/mixcloud.svg" title="Mixcloud")         

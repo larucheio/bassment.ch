@@ -1,6 +1,8 @@
 @import 'variables';
 @import 'header';
 @import 'footer';
+@import 'bootstrap-variables';
+@import 'node_modules/bootstrap/scss/bootstrap';
 
 html {
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Avenir, Geneva, Tahoma, sans-serif;
@@ -14,25 +16,21 @@ nav.rosalie {
   background-color: $color-rosalie;
 }
 
-.home {
-  display: flex;
-  flex-flow: row wrap;
+.row.no-gutter {
+  padding-left: 0;
+  padding-right: 0;
+
+  [class^="col-"],
+  [class*=" col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
 }
 
 .home__card {
-  flex: 1 1 600px;
-  max-width: none;
-
-  @media (min-width: $md) {
-    max-width: 50%;
-  }
 
   position: relative;
-
-  img {
-    display: block;
-    width: 100%;
-  }
 
   h2 {
     position: absolute;

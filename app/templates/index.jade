@@ -1,19 +1,25 @@
 extends ./layout/base.jade
 
 block content
-  section(class="home")
-    a(class="home__card" href="/events")
-      img(src="/images/events.jpg")
-      h2 Événements
-    a(class="home__card" href="/rosalie")
-      img(src="/images/rosalie.jpg")
-      h2 Rosalie
-    a(class="home__card" href="/soundsystem")
-      img(src="/images/soundsystem.jpg")
-      h2 Sound System
-    a(class="home__card" href="/bassmentstation")
-      img(src="/images/association.png")
-      h2 Bassment! Station
-    a(class="home__card" href="/association")
-      img(src="/images/association.png")
-      h2 Association
+  section(class="container-fluid")
+    .row.no-gutter
+      .col-md-6
+        a(class="home__card" href="/events")
+          img(src="/images/events.jpg" class="img-fluid")
+          h2 Événements
+      .col-md-6
+        a(class="home__card" href="/rosalie")
+          img(src="/images/rosalie.jpg" class="img-fluid")
+          h2 Rosalie
+      .col-md-6
+        a(class="home__card" href="/soundsystem")
+          img(src="/images/soundsystem.jpg" class="img-fluid")
+          h2 Sound System
+      .col-md-6
+        a(class="home__card" href="/bassmentstation")
+          img(src="/images/radio-usine.jpg" class="img-fluid")
+          h2 Bassment! Station
+      .col-md-6
+        a(class="home__card" href="/association")
+          img(src="/images/association.png" class="img-fluid")
+          h2 Association
