@@ -12,6 +12,10 @@ body {
   margin: 0;
 }
 
+p {
+  max-width: 544px;
+}
+
 nav.rosalie {
   background-color: $color-rosalie;
 }
