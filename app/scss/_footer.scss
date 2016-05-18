@@ -1,5 +1,30 @@
 footer {
-  img {
+  svg {
     height: 40px;
+  }
+
+  div:nth-child(1) {
+    display: flex;
+    justify-content: space-around;
+
+    > a {
+      text-decoration: none;
+      color: inherit;
+      font-size: 1.5rem;
+      font-weight: 500;
+    }
+  }
+
+  div:nth-child(2) {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  div > a:hover,
+  div > a:focus,
+  div > a:active, {
+    color: $color-bassment;
+    fill: $color-bassment;
+    transition: all 0.3s ease-out;
   }
 }
