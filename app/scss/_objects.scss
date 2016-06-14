@@ -1,0 +1,12 @@
+.o-grid {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.o-grid__child {
+  flex: 0 0 100%;
+
+  @media (min-width: $md) {
+    flex-basis: 50%;
+  }
+}

@@ -1,6 +1,9 @@
 @import 'variables';
+@import 'objects';
+@import 'components';
 @import 'header';
 @import 'footer';
+@import 'utilities';
 
 html {
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Avenir, Geneva, Tahoma, sans-serif;
@@ -16,38 +19,4 @@ p {
 
 nav.rosalie {
   background-color: $color-rosalie;
-}
-
-.row.no-gutter {
-  padding-left: 0;
-  padding-right: 0;
-
-  [class^="col-"],
-  [class*=" col-"] {
-    padding-right: 0;
-    padding-left: 0;
-  }
-
-}
-
-.home__card {
-
-  position: relative;
-
-  h2 {
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
-    color: white;
-    margin: 0;
-
-    font-size: 1.5em;
-
-    @media (min-width: $md) {
-      font-size: 2.4em;
-    }
-    @media (min-width: $lg) {
-      font-size: 2.4em;
-    }
-  }
 }

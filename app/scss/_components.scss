@@ -1,0 +1,23 @@
+.c-tile {
+  position: relative;
+}
+
+.c-tile__image {
+  display: block;
+  max-width: 100%;
+}
+
+.c-tile__title {
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+
+  font-size: 1.5em;
+
+  @media (min-width: $md) {
+    font-size: 2.4em;
+  }
+  @media (min-width: $lg) {
+    font-size: 2.4em;
+  }
+}
