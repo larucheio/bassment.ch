@@ -10,15 +10,15 @@ html(lang='en')
     meta(name='author', content='rspt')
     link(rel='stylesheet', href='/css/styles.css?v=1.0')
   body
-    nav(class="navbar #{ rosalie }")
-      a(href="/" title="Bassment!")
-        img(src="/images/bassment-logo.svg" alt="Bassment! Logo")
+    nav.c-nav(class="#{ rosalie }")
+      a.c-nav__title.u-text-color--white.u-text-decoration-none(href="/" title="Bassment!")
+        | Bassment!
     
     block content
       
     footer.o-grid.c-footer
       .o-grid__child.o-grid__child--space-around
-        a.c-footer__mail.u-text-color-black.u-text-decoration-none(href="mailto:info@bassment.ch" title="Contactez-nous") info@bassment.ch
+        a.c-footer__mail.u-text-color--black.u-text-decoration-none(href="mailto:info@bassment.ch" title="Contactez-nous") info@bassment.ch
       .o-grid__child.o-grid__child--space-around
         a(href="https://www.facebook.com/4Bassment/" class="nav-link")
           include ../../images/vendors/facebook.svg

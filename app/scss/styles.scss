@@ -1,11 +1,10 @@
 @import 'variables';
 @import 'objects';
 @import 'components';
-@import 'header';
 @import 'utilities';
 
 html {
-  font-family: "Avenir Next", "Open Sans", -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Avenir, Geneva, Tahoma, sans-serif;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Avenir, Geneva, Tahoma, sans-serif;
 }
 
 body {
@@ -14,8 +13,4 @@ body {
 
 p {
   max-width: 544px;
-}
-
-nav.rosalie {
-  background-color: $color-rosalie;
 }
