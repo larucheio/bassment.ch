@@ -16,16 +16,15 @@ html(lang='en')
     
     block content
       
-    footer.container-fluid.m-t-2
-      .row
-        .col-xs-12.col-md-6.m-b-2
-          a(href="mailto:info@bassment.ch" title="Contactez-nous") info@bassment.ch
-        .col-xs-12.col-md-6.m-b-2
-          a(href="https://www.facebook.com/4Bassment/" class="nav-link")
-            include ../../images/vendors/facebook.svg
-          a(href="https://www.instagram.com/bassmentgva/" class="nav-link")
-            include ../../images/vendors/instagram.svg
-          a(href="https://soundcloud.com/4bassment" class="nav-link")
-            include ../../images/vendors/soundcloud.svg
-          a(href="https://www.mixcloud.com/4bassment/" class="nav-link")
-            include ../../images/vendors/mixcloud.svg    
+    footer.o-grid.c-footer
+      .o-grid__child.o-grid__child--space-around
+        a.c-footer__mail.u-text-color-black.u-text-decoration-none(href="mailto:info@bassment.ch" title="Contactez-nous") info@bassment.ch
+      .o-grid__child.o-grid__child--space-around
+        a(href="https://www.facebook.com/4Bassment/" class="nav-link")
+          include ../../images/vendors/facebook.svg
+        a(href="https://www.instagram.com/bassmentgva/" class="nav-link")
+          include ../../images/vendors/instagram.svg
+        a(href="https://soundcloud.com/4bassment" class="nav-link")
+          include ../../images/vendors/soundcloud.svg
+        a(href="https://www.mixcloud.com/4bassment/" class="nav-link")
+          include ../../images/vendors/mixcloud.svg    

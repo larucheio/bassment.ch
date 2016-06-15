@@ -10,3 +10,8 @@
     flex-basis: 50%;
   }
 }
+
+.o-grid__child--space-around {
+  display: flex;
+  justify-content: space-around;
+}
