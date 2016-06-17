@@ -1,13 +1,11 @@
 extends ../layout/base.jade
 
 block content
-  .container-fluid
-    .row
-      .col-md-6.p-a-0
-        img(src="/images/events.jpg" alt="Événements" class="img-fluid")
-      .col-md-6.center-block
-        h1.m-t-2.m-b-1.font-weight-bold Événements
-        p.text-justify Retrouve tous nos événements sur #[a(href="https://www.facebook.com/4Bassment/events") Facebook]
-        div(class="fb-page" data-href="https://www.facebook.com/4Bassment" data-show-facepile="false" data-tabs="events, timeline, messages" data-small-header="true")
+  main.o-grid--fixed
+    img(src="/images/events.jpg" alt="Événements")
+    section
+      h1 Événements
+      p Retrouve tous nos événements sur #[a(href="https://www.facebook.com/4Bassment/events") Facebook].
+      div(class="fb-page" data-href="https://www.facebook.com/4Bassment" data-show-facepile="false" data-tabs="events, timeline, messages" data-small-header="true")
         
   script(src="/js/fb.js")

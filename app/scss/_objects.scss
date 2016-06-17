@@ -3,6 +3,12 @@
   flex-flow: row wrap;
 }
 
+.o-grid--fixed {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .o-grid__child {
   flex: 0 0 100%;
 

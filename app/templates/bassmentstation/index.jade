@@ -1,22 +1,17 @@
 extends ../layout/base.jade
 
 block content
-  .container-fluid
-    .row
-      .col-md-6.p-a-0
-        img(src="/images/radio-usine.jpg" alt="Radio-Usine - Bassment! Station!" class="img-fluid")
-      .col-md-6.center-block
-        h1.m-t-2.m-b-1.font-weight-bold Bassment! Station! / Radio-Usine
-        p.text-justify Tous les premiers et troisièmes jeudis du mois les choses se passent sur Radio-Usine!!! Bassment! y dirige d’une main de fer son émission consacrée à la musique de 21h jusqu’à sa fin!
+  main.o-grid--fixed
+    img(src="/images/radio-usine.jpg" alt="Radio-Usine - Bassment! Station!")
+    section
+      h1 Bassment! Station! / Radio-Usine
+      p Tous les premiers et troisièmes jeudis du mois les choses se passent sur Radio-Usine!!! Bassment! y dirige d’une main de fer son émission consacrée à la musique de 21h jusqu’à sa fin!
+      h2 Podcasts
+      p
+        audio(id="audio" preload="auto" tabindex="0" controls="" type="audio/mpeg")
+          source(type="audio/mp3" src="")
+          | Votre navigateur ne supporte pas l'élément #[code audio]
+          
+      ul#playlist
 
-    .row
-      .col-xs-12
-        h2 Podcasts
-        p
-          audio(id="audio" preload="auto" tabindex="0" controls="" type="audio/mpeg" class="w-100")
-            source(type="audio/mp3" src="")
-            | Votre navigateur ne supporte pas l'élément #[code audio]
-            
-        ul#playlist(class="list pl0")
-
-        script(src="/js/player.js")
+      script(src="/js/player.js")
