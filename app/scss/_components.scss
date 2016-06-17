@@ -46,9 +46,15 @@
   svg {
     height: 40px;
   }
+
+  margin-top: 32px;
 }
 
 .c-footer__mail {
   font-size: 1.5em;
   font-weight: 500;
+
+  @media (max-width: $md) {
+    margin-bottom: 20px;
+  }
 }
