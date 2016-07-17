@@ -64,10 +64,6 @@ const playlist = [
     url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2015.01.15.mp3',
   },
   {
-    title: '2014.12.29',
-    url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2014.12.29.mp3',
-  },
-  {
     title: '2014.12.18',
     url: 'https://s3-eu-west-1.amazonaws.com/static.bassment.ch/bassment-station/2014.12.18.mp3',
   },
