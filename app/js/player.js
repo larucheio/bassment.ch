@@ -17,7 +17,6 @@ function initPlayer (playlist) {
       description = document.createElement('span')
       description.appendChild(document.createTextNode(' - ' + playlist[i].description))
     }
-    console.log(description)
     const linkText = document.createTextNode(playlist[i].title)
     a.appendChild(linkText)
     a.setAttribute('href', playlist[i].url)
