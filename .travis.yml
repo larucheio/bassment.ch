@@ -10,7 +10,7 @@ deploy:
   bucket: bassment.ch
   region: eu-west-1
   skip_cleanup: true
-  local_dir: public
+  local_dir: build
   acl: public_read
   on:
     repo: bassmentgva/bassment.ch
