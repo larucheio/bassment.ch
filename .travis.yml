@@ -1,0 +1,15 @@
+language: node_js
+script: npm run build
+deploy:
+  provider: s3
+  access_key_id: AKIAJW33OK3KVLTM3O2A
+  secret_access_key:
+    secure: SFTOZbrjrwYIpLFTDG88V+QkQZrn27Tfsgc1xsxaKXZs6QfRinQRPlJoKiZLdX0mbIudM/x4Hz8XtDFFm/51gdAchM5V4tJYF+hu9XkuECVyi/Wti4evz4Kav+os0Llk+6+AdunXYsBEZtfvRX4cAcYn7RJ7Hu0K9g4LwCQKNLqK5WZT1xNh1hxLqj1AMnQNT1ZDcZhhtKGXbZ/8D/240t3krPn+siNPnfq0AAKyzelSJDVdLfv4TtrErIZhpzD63i6Aho+XgYFGKWECSX4gixtl4W5GLQV/riveptIuiro6OZkBG60+ywEpFnLRv/6nEktv97bMic5umw/+ECO3Ut1XB9acviFmqDFnF3V6yoZsUL0JxsZknZtgD9APfgHX0hZlqqgTGc2lpHklwACuVGgq6xtQEiS2RO/AM2oGrvf6/qORAXGw07ahMtwHC0ZsPW3Y/yD3QWEuRDigvGFVfC1nJ+LRDpNwWegYBtTdpyPDII78NQlCcaJo6+RpktrBJoI1tPlTi3BrAyz8W9ohmmjDQ0vIL07HAf6jYg87zIjYAr7Es7mjYZhyXOnRpOAnJkacP8IOJnt1EESC5WAeIsu7TSNwzuXrByY4dgrujfKmYZosXomeTp0P4s7hu7DVSahIgOkm2zYeQEJ+HYIn/plS7DRaSMMDbtgETlGUD4o=
+  bucket: bassment.ch
+  region: eu-west-1
+  skip_cleanup: true
+  local_dir: public
+  acl: public_read
+  on:
+    repo: bassmentgva/bassment.ch
+    branch: master
