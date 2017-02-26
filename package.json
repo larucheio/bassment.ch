@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/larucheio/bassment.ch/issues"
   },
-  "homepage": "https://github.com/larucheio/bassment.ch#readme"
+  "homepage": "https://github.com/larucheio/bassment.ch#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "webpack": "^2.2.1"
+  }
 }
