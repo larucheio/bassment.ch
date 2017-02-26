@@ -1,3 +1,7 @@
+node_modules
+
 public
+
 src/.sass-cache
 src/.jekyll-metadata
+src/assets/js/bundle.js
