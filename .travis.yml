@@ -1,16 +1,19 @@
-language: ruby
-rvm:
-  - 2.4.0
+language: node_js
+node_js:
+  - node
+
+cache:
+  yarn: true
+
+before_install:
+  - rvm install 2.4.0
 
 script:
+  - yarn run build
+  - cd src
+  - bundle install
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./public
-
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-sudo: false # route your build to the container-based infrastructure for a faster build
+  - bundle exec htmlproofer ../public
 
 deploy:
   - provider: s3
