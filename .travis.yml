@@ -4,7 +4,7 @@ rvm:
 
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site
+  - bundle exec htmlproofer ./public
 
 env:
   global:
@@ -20,7 +20,7 @@ deploy:
     bucket: bassment.ch
     region: eu-west-1
     skip_cleanup: true
-    local-dir: _site
+    local-dir: public
     acl: public_read
     on:
       repo: larucheio/bassment.ch
@@ -32,7 +32,7 @@ deploy:
     bucket: dev.bassment.ch
     region: eu-west-1
     skip_cleanup: true
-    local-dir: _site
+    local-dir: public
     acl: public_read
     on:
       repo: larucheio/bassment.ch
