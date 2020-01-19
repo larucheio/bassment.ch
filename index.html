@@ -1,0 +1,121 @@
+---
+layout: default
+title: "Bassment!"
+---
+
+<section>
+  <p>
+    Bassment! est un collectif d'artistes pluridisciplinaires créé en 2010 à Genève. Au fil des années et des projets, Bassment! a su trouver sa place au sein du paysage culturel alternatif genevois en proposant notamment des animations musicales, des scénographies, des espaces de rencontres ou encore des expositions.
+  </p>
+</section>
+
+<section>
+  <h2 class="section-title square">Prochains évènements</h2>
+  <table class="events">
+    <tbody>
+      {% for event in site.data.events %}
+        <tr>
+            <td>{{ event.date }}</td>
+            <td>{{ event.artists }}</td>
+            <td>{{ event.venue }}</td>
+            <td class="event__link">
+              {% if event.link %}
+                <a href="{{ event.link }}">+ info</a>
+              {% endif %}
+            </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <a href="/evenements/" class="events__more">Tous les évènements</a>
+
+</section>
+
+<section>
+  <h2 class="section-title square">Artistes</h2>
+
+  <div class="artists">
+    <div class="artist">
+      <img src="/assets/img/artists/bassment.jpg" alt="Bassment!">
+      <p class="artist__title">Bassment! Sound System</p>
+      <p class="artist__styles">Reggae /// Dub /// Dancehall</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/150.jpg" alt="150">
+      <p class="artist__title">150</p>
+      <p class="artist__styles">Hard Bass /// Hardtek</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/mojojojo-lui-grofilou.jpg" alt="Mojo Jojo, Lui & Grofilou">
+      <p class="artist__title">Mojo Jojo, Lui & Grofilou</p>
+      <p class="artist__styles">All Styles</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/rspt.jpg" alt="rspt">
+      <p class="artist__title">rspt</p>
+      <p class="artist__styles">???</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/seba.jpg" alt="Sébà">
+      <p class="artist__title">Sébà</p>
+      <p class="artist__styles">Techno /// Electronic</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/smorrebrod.jpg" alt="Smørrebrød">
+      <p class="artist__title">Smørrebrød</p>
+      <p class="artist__styles">Techno</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/surf-rock-punk.jpg" alt="rspt + More-Ice + Jerem">
+      <p class="artist__title">rspt + More-Ice + Jerem</p>
+      <p class="artist__styles">Surf /// Rock /// Punk</p>
+    </div>
+
+    <div class="artist">
+      <img src="/assets/img/artists/therm0z-gang.jpg" alt="Therm0z Gang">
+      <p class="artist__title">Therm0z Gang</p>
+      <p class="artist__styles">Latin Music</p>
+    </div>
+  </div>
+
+</section>
+
+<section>
+  <h2 class="section-title square square--white">Contact & Booking</h2>
+
+  <div class="contact">
+    <div class="contact__bassment">
+      <b>Bassment!</b>
+      <p>
+        <a href="mailto:info@bassment.ch">info@bassment.ch</a>
+      <p>
+      <p>
+        <a href="https://www.facebook.com/4Bassment/" class="contact__social">
+          <img src="/assets/img/social/facebook.png" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com/bassmentgva/" class="contact__social">
+          <img src="/assets/img/social/instagram.png" alt="Instagram">
+        </a>
+        <a href="https://soundcloud.com/4bassment" class="contact__social">
+          <img src="/assets/img/social/soundcloud.svg" alt="Soundcloud">
+        </a>
+      </p>
+    </div>
+
+    <div class="contact__booking">
+      <b>Booking</b>
+      <p>
+        <a href="mailto:rspt@bassment.ch">rspt@bassment.ch</a>
+        <br>
+        <a href="tel:+41796744103">+41 79 674 41 03</a>
+      <p>
+    </div>
+  </div>
+</section>
