@@ -73,6 +73,12 @@ a {
 }
 
 @media (min-width: 900px) {
+  .events {
+    width: calc(100vw - 2rem);
+    margin-left: calc(-100vw / 2 + 900px / 2 + 1rem);
+    margin-right: calc(-100vw / 2 + 900px / 2 + 1rem);
+  }
+
   .events tr {
     display: table-row;
   }
