@@ -14,16 +14,7 @@ title: "Bassment!"
   <table class="events">
     <tbody>
       {% for event in site.data.events %}
-        <tr>
-            <td>{{ event.date }}</td>
-            <td>{{ event.artists }}</td>
-            <td>{{ event.venue }}</td>
-            <td class="event__link">
-              {% if event.link %}
-                <a href="{{ event.link }}">+ info</a>
-              {% endif %}
-            </td>
-        </tr>
+        {% include event.html %}
       {% endfor %}
     </tbody>
   </table>

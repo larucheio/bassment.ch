@@ -1,0 +1,15 @@
+<tr itemscope itemtype="http://schema.org/Event">
+    <td itemprop="startDate" content="{{ event.date }}">{{ event.date }}</td>
+    <td itemprop="performer" itemscope itemtype="http://schema.org/Person">
+      <span itemprop="name">{{ event.artists }}</span>
+    </td>
+    <td itemprop="name">{{ event.name }}</td>
+    <td itemprop="location" itemscope itemtype="http://schema.org/Place">
+      <span itemprop="name">{{ event.venue }}</span>
+    </td>
+    <td class="event__link">
+      {% if event.link %}
+        <a href="{{ event.link }}">+ info</a>
+      {% endif %}
+    </td>
+</tr>
