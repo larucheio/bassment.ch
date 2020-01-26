@@ -1,3 +1,5 @@
+{% assign venue = site.data.venues[event.venue] %}
+
 <tr itemscope itemtype="http://schema.org/Event">
     <td itemprop="startDate" content="{{ event.date }}">{{ event.date }}</td>
     <td itemprop="performer" itemscope itemtype="http://schema.org/Person">
@@ -5,7 +7,8 @@
     </td>
     <td itemprop="name">{{ event.name }}</td>
     <td itemprop="location" itemscope itemtype="http://schema.org/Place">
-      <span itemprop="name">{{ event.venue }}</span>
+      <span itemprop="name">{{ venue.name }}</span>
+      <span itemprop="address" style="display: none;">{{ venue.address }}</span>
     </td>
     <td class="event__link">
       {% if event.link %}

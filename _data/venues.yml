@@ -1,0 +1,18 @@
+graviere:
+  name: "La Gravière"
+  address: "Chemin de la Gravière 9, 1227 Genève"
+makhno:
+  name: "La Makhno"
+  address: "Place des Volontaires 4, 1204 Genève"
+mambo:
+  name: "Mambo"
+  address: "Rue de Monthoux 60, 1201 Genève"
+parfumerie:
+  name: "Parfumerie"
+  address: "Chemin de la Gravière 7, 1227 Genève"
+saules:
+  name: "Les Saules"
+  address: "Sentier des Saules 3, 1205 Genève"
+terreau:
+  name: "Le Terreau"
+  address: "Rue des Terreaux-du-Temple 6, 1201 Genève"
