@@ -13,6 +13,9 @@ parfumerie:
 saules:
   name: "Les Saules"
   address: "Sentier des Saules 3, 1205 Genève"
+tbar:
+  name: "T-Bar / Tzoumaz"
+  address: "Rue de la Télécabine 7, 1918 La Tzoumaz"
 terreau:
   name: "Le Terreau"
   address: "Rue des Terreaux-du-Temple 6, 1201 Genève"
