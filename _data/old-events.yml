@@ -1,7 +1,7 @@
 - date: 16-01-2020
   venue: "saules"
   artists: "rspt"
-  name: "Soul2Soul"
+  name: "Soul2Soul w/ OP&A"
   link: "https://www.facebook.com/events/597126994453613/"
 
 - date: 02-01-2020
@@ -10,10 +10,15 @@
   name: "Peignoir, Mario Kart & Downtempo"
   link: "https://www.facebook.com/events/448516965843794/"
 
+- date: 31-12-2019
+  venue: "tbar"
+  artists: "rspt"
+  name: "Réveillon"
+
 - date: 28-12-2019
   venue: "makhno"
   artists: "Bassment!"
-  name: "Sound System Saturday"
+  name: "Sound System Saturday w/ Justice Rivah"
   link: "https://www.facebook.com/events/431809491036693/"
 
 - date: 27-12-2019
@@ -21,3 +26,8 @@
   artists: "rspt"
   name: "All Styles 90/2000s"
   link: "https://www.facebook.com/events/2553773434880364/"
+
+- date: 07-12-2019
+  venue: "abarc"
+  artists: "rspt"
+  name: "Plein-Les-Watts - Soirée bénévoles"
