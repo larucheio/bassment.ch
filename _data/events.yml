@@ -1,7 +1,12 @@
 - date: 30-01-2020
   venue: "mambo"
   artists: "rspt"
-  name: "Sun Session"
+  name: "SUN Session"
+
+- date: 30-01-2020
+  venue: "saules"
+  artists: "Therm0z Gang"
+  name: "Therm0z Gang x La Morce"
 
 - date: 06-02-2020
   venue: "terreau"
