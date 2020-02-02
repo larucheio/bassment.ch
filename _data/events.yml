@@ -9,6 +9,11 @@
   name: "Bassment! meets Sumac Dub & Art-X"
   link: "https://www.facebook.com/events/2760017014085899/"
 
+- date: 08-02-2020
+  venue: "etablons"
+  artists: "rspt"
+  name: "Après-Ski"
+
 - date: 12-02-2020
   venue: "makhno"
   artists: "rspt"
@@ -21,11 +26,31 @@
   link: "https://www.facebook.com/events/1012867262418463/"
 
 - date: 15-02-2020
+  venue: "etablons"
+  artists: "rspt"
+  name: "Après-Ski"
+
+- date: 15-02-2020
   venue: "tbar"
   artists: "rspt"
   name: "Carnaval"
 
+- date: 22-02-2020
+  venue: "etablons"
+  artists: "rspt"
+  name: "Après-Ski"
+
+- date: 29-02-2020
+  venue: "etablons"
+  artists: "rspt"
+  name: "Après-Ski"
+
 - date: 29-02-2020
   venue: "makhno"
-  artists: "Bassment!"
+  artists: "Bassment! Sound System + More-Ice + Smørrebrød + Sébà + 150"
   name: "Sound System Saturday w/ Isolated Lines (Live)"
+
+- date: 07-03-2020
+  venue: "etablons"
+  artists: "rspt"
+  name: "Après-Ski"

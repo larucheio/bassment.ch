@@ -1,6 +1,9 @@
 abarc:
   name: "ABARC"
   address: "Route de Vernier 151, 1214 Vernier"
+etablons:
+  name: "Établons / Tzoumaz"
+  address: "Rue des Portes, 1918 Riddes"
 graviere:
   name: "La Gravière"
   address: "Chemin de la Gravière 9, 1227 Genève"
@@ -10,6 +13,9 @@ makhno:
 mambo:
   name: "Mambo"
   address: "Rue de Monthoux 60, 1201 Genève"
+papon:
+  name: "Café Papon"
+  address: "Rue Henri-Fazy 1, 1204 Genève"
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
