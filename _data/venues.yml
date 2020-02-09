@@ -1,6 +1,12 @@
+105voisins:
+  name: "105 Voisins"
+  address: "Route des Jeunes 105A, 1227 Lancy"
 abarc:
   name: "ABARC"
   address: "Route de Vernier 151, 1214 Vernier"
+bateaugeneve:
+  name: "Bateau Genève"
+  address: "Quai Gustave-Ador 1, 1207 Genève"
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
@@ -19,6 +25,12 @@ papon:
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
+ramada:
+  name: "Hôtel Ramada"
+  address: "10-12, Route des Jeunes, 1227 Genève"
+rousseau:
+  name: "Collège Rousseau"
+  address: "Avenue du Bouchet 16A, 1209 Genève"
 saules:
   name: "Les Saules"
   address: "Sentier des Saules 3, 1205 Genève"
@@ -28,3 +40,6 @@ tbar:
 terreau:
   name: "Le Terreau"
   address: "Rue des Terreaux-du-Temple 6, 1201 Genève"
+unimail:
+  name: "Uni-Mail"
+  address: "Boulevard du Pont-d'Arve 40, 1205 Genève"

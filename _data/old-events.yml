@@ -76,3 +76,57 @@
   artists:
     - "rspt"
   name: "Plein-Les-Watts - Soirée bénévoles"
+
+- date: 21-11-2019
+  venue: "bateaugeneve"
+  artists:
+    - "rspt"
+  name: "UNIGE - Silent Party"
+
+- date: 07-11-2019
+  venue: "terreau"
+  artists:
+    - "rspt"
+  name: "Extinction Rebellion"
+
+- date: 25-10-2019
+  venue: "terreau"
+  artists:
+    - "rspt"
+  name: "Sonar"
+
+- date: 19-10-2019
+  venue: "105voisins"
+  artists:
+    - "thermoz"
+  name: "Globale Locale"
+
+- date: 19-10-2019
+  venue: "ramada"
+  artists:
+    - "bassment"
+  name: "Geneva Seahawks - Soirée de gala"
+
+- date: 12-10-2019
+  venue: "makhno"
+  artists:
+    - "bassment"
+  name: "Dancehall w/ Little Lion & Kill Babylon"
+
+- date: 11-10-2019
+  venue: "unimail"
+  artists:
+    - "rspt"
+  name: "Soirée HEM"
+
+- date: 28-09-2019
+  venue: "terreau"
+  artists:
+    - "rspt"
+  name: "All Style"
+
+- date: 28-09-2019
+  venue: "rousseau"
+  artists:
+    - "rspt"
+  name: "50 ans du Collège Rousseau w/ Brachoï"
