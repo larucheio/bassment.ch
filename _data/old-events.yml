@@ -1,66 +1,78 @@
 - date: 08-02-2020
   venue: "etablons"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Après-Ski"
 
 - date: 07-02-2020
   venue: "graviere"
-  artists: "Bassment!"
+  artists:
+    - "bassment"
   name: "Bassment! meets Sumac Dub & Art-X"
   link: "https://www.facebook.com/events/2760017014085899/"
 
 - date: 06-02-2020
   venue: "terreau"
-  artists: "rspt + More-Ice + Jerem"
+  artists:
+    - "rsptmoricejerem"
   name: "Antigel <3 Terreau"
   link: "https://www.facebook.com/events/423431691668270/"
 
 - date: 01-02-2020
   venue: "papon"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Mariage"
 
 - date: 30-01-2020
   venue: "mambo"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "SUN Session"
 
 - date: 30-01-2020
   venue: "saules"
-  artists: "Therm0z Gang"
+  artists:
+    - "thermoz"
   name: "Therm0z Gang x La Morce"
   link: "https://www.facebook.com/events/154319006013968/"
 
 - date: 16-01-2020
   venue: "saules"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Soul2Soul w/ OP&A"
   link: "https://www.facebook.com/events/597126994453613/"
 
 - date: 02-01-2020
   venue: "makhno"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Peignoir, Mario Kart & Downtempo"
   link: "https://www.facebook.com/events/448516965843794/"
 
 - date: 31-12-2019
   venue: "tbar"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Réveillon"
 
 - date: 28-12-2019
   venue: "makhno"
-  artists: "Bassment!"
+  artists:
+    - "bassment"
   name: "Sound System Saturday w/ Justice Rivah"
   link: "https://www.facebook.com/events/431809491036693/"
 
 - date: 27-12-2019
   venue: "parfumerie"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "All Styles 90/2000s"
   link: "https://www.facebook.com/events/2553773434880364/"
 
 - date: 07-12-2019
   venue: "abarc"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Plein-Les-Watts - Soirée bénévoles"

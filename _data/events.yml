@@ -1,51 +1,65 @@
 - date: 12-02-2020
   venue: "makhno"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Après-Ski / Raclette / Mario Kart / Downtempo"
   link: "https://www.facebook.com/events/602991213827107/"
 
 - date: 14-02-2020
   venue: "terreau"
-  artists: "Bassment!"
+  artists:
+    - "bassment"
   name: "Funk To Dub"
   link: "https://www.facebook.com/events/1012867262418463/"
 
 - date: 15-02-2020
   venue: "etablons"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Après-Ski"
 
 - date: 15-02-2020
   venue: "tbar"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Petit Carnaval"
 
 - date: 22-02-2020
   venue: "etablons"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Après-Ski"
 
 - date: 22-02-2020
   venue: "tbar"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Carnaval"
 
 - date: 29-02-2020
   venue: "etablons"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Après-Ski"
 
 - date: 29-02-2020
   venue: "makhno"
-  artists: "Bassment! Sound System + More-Ice + Smørrebrød + Sébà + 150"
+  artists:
+    - "bassment"
+    - "moreice"
+    - "smorrebrod"
+    - "seba"
+    - "onefiveo"
   name: "Sound System Saturday w/ Isolated Lines (Live)"
 
 - date: 07-03-2020
   venue: "etablons"
-  artists: "rspt"
+  artists:
+    - "rspt"
   name: "Après-Ski"
 
 - date: 07-03-2020
   venue: "terreau"
-  artists: "Mojo Jojo, Lui & Grofilou"
+  artists:
+    - "mlg"
   name: "Bablard & NoShame vs Mojo Jojo, Lui & Grofilou"

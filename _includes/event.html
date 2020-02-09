@@ -2,8 +2,16 @@
 
 <tr itemscope itemtype="http://schema.org/Event">
     <td itemprop="startDate" content="{{ event.date }}">{{ event.date }}</td>
-    <td itemprop="performer" itemscope itemtype="http://schema.org/Person">
-      <span itemprop="name">{{ event.artists }}</span>
+    <td>
+      {% for a in event.artists %}
+        {% assign artist = site.data.artists[a] %}
+        <span itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">{{ artist.name }}</span>
+        </span>
+        {% if forloop.last == false %}
+        +
+        {% endif %}
+      {% endfor %}
     </td>
     <td itemprop="name">{{ event.name }}</td>
     <td itemprop="location" itemscope itemtype="http://schema.org/Place">
