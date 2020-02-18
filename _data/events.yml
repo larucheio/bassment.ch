@@ -10,6 +10,12 @@
     - "rspt"
   name: "Carnaval"
 
+- date: 26-02-2020
+  venue: "makhno"
+  artists:
+    - "gonzo"
+  name: "Roots, Reggae, Dub"
+
 - date: 29-02-2020
   venue: "etablons"
   artists:
