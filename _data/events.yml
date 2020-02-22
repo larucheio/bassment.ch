@@ -2,13 +2,7 @@
   venue: "etablons"
   artists:
     - "rspt"
-  name: "Après-Ski"
-
-- date: 22-02-2020
-  venue: "tbar"
-  artists:
-    - "rspt"
-  name: "Carnaval"
+  name: "Après-Ski - Carnaval"
 
 - date: 26-02-2020
   venue: "makhno"
