@@ -32,3 +32,27 @@
     - "mlg"
   name: "Bablard & NoShame vs Mojo Jojo, Lui & Grofilou"
   link: "https://www.facebook.com/events/s/psychodelique/2823394241050491/"
+
+- date: 14-03-2020
+  venue: "champmesle"
+  artists:
+    - "rspt"
+  name: "TBA"
+
+- date: 20-03-2020
+  venue: "mqspot"
+  artists:
+    - "rosalie"
+  name: "TBA"
+
+- date: 02-04-2020
+  venue: "zoo"
+  artists:
+    - "bassment"
+  name: "Soirée de soutien au Zooloo festival"
+
+- date: 04-04-2020
+  venue: "tu"
+  artists:
+    - "bassment"
+  name: "Soirée de soutien au 1er Mai"

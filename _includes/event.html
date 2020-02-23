@@ -1,7 +1,7 @@
 {% assign venue = site.data.venues[event.venue] %}
 
 <tr itemscope itemtype="http://schema.org/Event">
-    <td itemprop="startDate" content="{{ event.date }}">{{ event.date }}</td>
+    <td itemprop="startDate" content="{{ event.date }}" style="white-space: nowrap">{{ event.date }}</td>
     <td>
       {% for a in event.artists %}
         {% assign artist = site.data.artists[a] %}
@@ -18,7 +18,7 @@
       <span itemprop="name">{{ venue.name }}</span>
       <span itemprop="address" style="display: none;">{{ venue.address }}</span>
     </td>
-    <td class="event__link">
+    <td class="event__link" style="white-space: nowrap">
       {% if event.link %}
         <a href="{{ event.link }}">+ info</a>
       {% endif %}

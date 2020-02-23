@@ -7,6 +7,9 @@ abarc:
 bateaugeneve:
   name: "Bateau Genève"
   address: "Quai Gustave-Ador 1, 1207 Genève"
+champmesle:
+  name: "Champmeslé"
+  address: "Rue Jean, Rue Jacques-Dalphin 53, 1227 Carouge"
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
@@ -19,6 +22,9 @@ makhno:
 mambo:
   name: "Mambo"
   address: "Rue de Monthoux 60, 1201 Genève"
+mqspot:
+  name: "Maison de Quartier - Le Spot"
+  address: "Rue François-Perréard 2, 1225 Chêne-Bourg"
 papon:
   name: "Café Papon"
   address: "Rue Henri-Fazy 1, 1204 Genève"
@@ -40,6 +46,12 @@ tbar:
 terreau:
   name: "Le Terreau"
   address: "Rue des Terreaux-du-Temple 6, 1201 Genève"
+tu:
+  name: "Théâtre de l'Usine"
+  address: "Rue de la Coulouvrenière 11, 1204 Genève"
 unimail:
   name: "Uni-Mail"
   address: "Boulevard du Pont-d'Arve 40, 1205 Genève"
+zoo:
+  name: "Le Zoo"
+  address: "Place des Volontaires 4, 1204 Genève"
