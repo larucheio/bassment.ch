@@ -28,6 +28,9 @@ mqspot:
 papon:
   name: "Café Papon"
   address: "Rue Henri-Fazy 1, 1204 Genève"
+nadir:
+  name: "Nadir"
+  address: "Boulevard Carl-Vogt 102, 1205 Genève"
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
