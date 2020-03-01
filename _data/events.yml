@@ -1,32 +1,8 @@
-- date: 29-02-2020
-  venue: "etablons"
-  artists:
-    - "rspt"
-  name: "Après-Ski"
-
-- date: 29-02-2020
-  venue: "makhno"
-  artists:
-    - "bassment"
-    - "moreice"
-    - "smorrebrod"
-    - "seba"
-    - "onefiveo"
-  name: "Sound System Saturday w/ Isolated Lines (Live)"
-  link: "https://www.facebook.com/events/187210329209922"
-
 - date: 07-03-2020
   venue: "etablons"
   artists:
     - "rspt"
   name: "Après-Ski"
-
-- date: 07-03-2020
-  venue: "terreau"
-  artists:
-    - "mlg"
-  name: "Bablard & NoShame vs Mojo Jojo, Lui & Grofilou"
-  link: "https://www.facebook.com/events/s/psychodelique/2823394241050491/"
 
 - date: 14-03-2020
   venue: "champmesle"
