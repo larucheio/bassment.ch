@@ -5,6 +5,12 @@
   name: "Après-Ski"
 
 - date: 14-03-2020
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Fête de la luge"
+
+- date: 14-03-2020
   venue: "champmesle"
   artists:
     - "rspt"
@@ -16,11 +22,35 @@
     - "thermoz"
   name: "Festival En corps et encore (mixité choisie)"
 
+- date: 19-03-2020
+  venue: "terreau"
+  artists:
+    - "mlg"
+  name: "After Lab"
+
 - date: 20-03-2020
   venue: "mqspot"
   artists:
     - "rosalie"
   name: "TBA"
+
+- date: 21-03-2020
+  venue: "terreau"
+  artists:
+    - "rspt"
+  name: "Socio Night Fever"
+
+- date: 22-03-2020
+  venue: "vessy"
+  artists:
+    - "bassment"
+  name: "Match des Geneva Seahawks"
+
+- date: 29-03-2020
+  venue: "vessy"
+  artists:
+    - "bassment"
+  name: "Match des Geneva Seahawks"
 
 - date: 02-04-2020
   venue: "zoo"
@@ -33,3 +63,9 @@
   artists:
     - "bassment"
   name: "Soirée de soutien au 1er Mai"
+
+- date: 04-07-2020
+  venue: "bateaugeneve"
+  artists:
+    - "bassment"
+  name: "TBA"

@@ -55,6 +55,9 @@ tu:
 unimail:
   name: "Uni-Mail"
   address: "Boulevard du Pont-d'Arve 40, 1205 Genève"
+vessy:
+  name: "Centre sportif de Vessy"
+  address: "Route de Vessy 31, 1234 Vessy"
 zoo:
   name: "Le Zoo"
   address: "Place des Volontaires 4, 1204 Genève"
