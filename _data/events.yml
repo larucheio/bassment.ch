@@ -4,6 +4,13 @@
     - "rspt"
   name: "Après-Ski"
 
+- date: 12-03-2020
+  venue: "tragedie"
+  artists:
+    - "rspt"
+  name: "Silent Project"
+  link: "https://tragedie.ch/"
+
 - date: 14-03-2020
   venue: "etablons"
   artists:
@@ -34,12 +41,6 @@
     - "rosalie"
   name: "TBA"
 
-- date: 21-03-2020
-  venue: "terreau"
-  artists:
-    - "rspt"
-  name: "Socio Night Fever"
-
 - date: 22-03-2020
   venue: "vessy"
   artists:
@@ -62,7 +63,8 @@
   venue: "tu"
   artists:
     - "bassment"
-  name: "Soirée de soutien au 1er Mai"
+    - "thermoz"
+  name: "Latin/Dancehall - Soirée de soutien au 1er Mai w/ DJ Pihkal"
 
 - date: 04-07-2020
   venue: "bateaugeneve"

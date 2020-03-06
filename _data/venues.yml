@@ -49,6 +49,9 @@ tbar:
 terreau:
   name: "Le Terreau"
   address: "Rue des Terreaux-du-Temple 6, 1201 Genève"
+tragedie:
+  name: "Tragédie"
+  address: "Boulevard des Philosophes 6, 1205 Genève"
 tu:
   name: "Théâtre de l'Usine"
   address: "Rue de la Coulouvrenière 11, 1204 Genève"
