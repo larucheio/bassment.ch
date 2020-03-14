@@ -1,3 +1,39 @@
+- date: 14-03-2020
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Fête de la luge"
+  cancelled: true
+
+- date: 14-03-2020
+  venue: "champmesle"
+  artists:
+    - "rspt"
+  name: "Soirée de soutien: Festival Mélange de Genres"
+  link: "https://www.facebook.com/events/1036245646756613"
+  cancelled: true
+
+- date: 13-03-2020
+  venue: "dariopizzeria"
+  artists:
+    - "rspt"
+  name: "Soirée d'entreprise"
+  cancelled: true
+
+- date: 12-03-2020
+  venue: "tragedie"
+  artists:
+    - "rspt"
+  name: "Silent Project"
+  link: "https://tragedie.ch/"
+  cancelled: true
+
+- date: 07-03-2020
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Après-Ski"
+
 - date: 29-02-2020
   venue: "etablons"
   artists:

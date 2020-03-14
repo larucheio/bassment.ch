@@ -1,28 +1,3 @@
-- date: 07-03-2020
-  venue: "etablons"
-  artists:
-    - "rspt"
-  name: "Après-Ski"
-
-- date: 12-03-2020
-  venue: "tragedie"
-  artists:
-    - "rspt"
-  name: "Silent Project"
-  link: "https://tragedie.ch/"
-
-- date: 14-03-2020
-  venue: "etablons"
-  artists:
-    - "rspt"
-  name: "Fête de la luge"
-
-- date: 14-03-2020
-  venue: "champmesle"
-  artists:
-    - "rspt"
-  name: "TBA"
-
 - date: 14-03-2020
   venue: "nadir"
   artists:
@@ -34,12 +9,14 @@
   artists:
     - "mlg"
   name: "After Lab"
+  cancelled: true
 
 - date: 20-03-2020
   venue: "mqspot"
   artists:
     - "rosalie"
-  name: "TBA"
+  name: "Fête du bonhomme hiver"
+  cancelled: true
 
 - date: 22-03-2020
   venue: "vessy"
