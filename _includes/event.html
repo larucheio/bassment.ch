@@ -1,6 +1,9 @@
 {% assign venue = site.data.venues[event.venue] %}
 
 <tr itemscope itemtype="http://schema.org/Event">
+    {% if event.cancelled %}
+    <meta itemprop="eventStatus" content="http://schema.org/EventCancelled">
+    {% endif %}
     <td itemprop="startDate" content="{{ event.date }}" style="white-space: nowrap">{{ event.date }}</td>
     <td>
       {% for a in event.artists %}
@@ -13,7 +16,12 @@
         {% endif %}
       {% endfor %}
     </td>
-    <td itemprop="name">{{ event.name }}</td>
+    <td>
+      {% if event.cancelled %}
+      ANNULÉ -
+      {% endif %}
+      <span itemprop="name" {% if event.cancelled %}style="text-decoration: line-through;"{% endif %}>{{ event.name }}</span>
+    </td>
     <td itemprop="location" itemscope itemtype="http://schema.org/Place">
       <span itemprop="name">{{ venue.name }}</span>
       <span itemprop="address" style="display: none;">{{ venue.address }}</span>

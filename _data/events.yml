@@ -4,6 +4,20 @@
     - "thermoz"
   name: "Festival En corps et encore (mixité choisie)"
 
+- date: 19-03-2020
+  venue: "terreau"
+  artists:
+    - "mlg"
+  name: "After Lab"
+  cancelled: true
+
+- date: 20-03-2020
+  venue: "mqspot"
+  artists:
+    - "rosalie"
+  name: "Fête du bonhomme hiver"
+  cancelled: true
+
 - date: 22-03-2020
   venue: "vessy"
   artists:

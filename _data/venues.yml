@@ -10,6 +10,9 @@ bateaugeneve:
 champmesle:
   name: "Champmeslé"
   address: "Rue Jean, Rue Jacques-Dalphin 53, 1227 Carouge"
+dariopizzeria:
+  name: "Dario's Pizzeria"
+  address: "Rue de Montchoisy 4, 1207 Genève"
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
