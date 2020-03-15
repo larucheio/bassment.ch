@@ -1,4 +1,10 @@
 - date: 14-03-2020
+  venue: "nadir"
+  artists:
+    - "thermoz"
+  name: "Festival En corps et encore (mixité choisie)"
+
+- date: 14-03-2020
   venue: "etablons"
   artists:
     - "rspt"
