@@ -17,18 +17,21 @@
   artists:
     - "bassment"
   name: "Match des Geneva Seahawks"
+  cancelled: true
 
 - date: 29-03-2020
   venue: "vessy"
   artists:
     - "bassment"
   name: "Match des Geneva Seahawks"
+  cancelled: true
 
 - date: 02-04-2020
   venue: "zoo"
   artists:
     - "bassment"
   name: "Soirée de soutien au Zooloo festival"
+  cancelled: true
 
 - date: 04-04-2020
   venue: "tu"
@@ -36,6 +39,7 @@
     - "bassment"
     - "thermoz"
   name: "Latin/Dancehall - Soirée de soutien au 1er Mai w/ DJ Pihkal"
+  cancelled: true
 
 - date: 04-07-2020
   venue: "bateaugeneve"
