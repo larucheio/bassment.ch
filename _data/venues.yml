@@ -7,6 +7,9 @@ abarc:
 bateaugeneve:
   name: "Bateau Genève"
   address: "Quai Gustave-Ador 1, 1207 Genève"
+bienne:
+  name: "Bienne"
+  address: "Bienne"
 champmesle:
   name: "Champmeslé"
   address: "Rue Jean, Rue Jacques-Dalphin 53, 1227 Carouge"
@@ -16,6 +19,9 @@ dariopizzeria:
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
+geneve:
+  name: "Genève"
+  address: "Genève"
 graviere:
   name: "La Gravière"
   address: "Chemin de la Gravière 9, 1227 Genève"
@@ -25,6 +31,9 @@ makhno:
 mambo:
   name: "Mambo"
   address: "Rue de Monthoux 60, 1201 Genève"
+meyrin:
+  name: "Meyrin"
+  address: "1217 Meyrin"
 mqspot:
   name: "Maison de Quartier - Le Spot"
   address: "Rue François-Perréard 2, 1225 Chêne-Bourg"
@@ -34,15 +43,24 @@ papon:
 nadir:
   name: "Nadir"
   address: "Boulevard Carl-Vogt 102, 1205 Genève"
+octopode:
+  name: "Campagne-Charnaux"
+  address: "Rue de la Campagne-Charnaux, 1217 Meyrin"
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
+plo:
+  name: "Plan-les-Ouates"
+  address: "Chemin de la Butte 20, 1228 Plan-les-Ouates"
 ramada:
   name: "Hôtel Ramada"
   address: "10-12, Route des Jeunes, 1227 Genève"
 rousseau:
   name: "Collège Rousseau"
   address: "Avenue du Bouchet 16A, 1209 Genève"
+saintjean:
+  name: "Saint-Jean"
+  address: "Saint-Jean, 1203 Genève"
 saules:
   name: "Les Saules"
   address: "Sentier des Saules 3, 1205 Genève"
@@ -64,6 +82,9 @@ unimail:
 vessy:
   name: "Centre sportif de Vessy"
   address: "Route de Vessy 31, 1234 Vessy"
+villabernasconi:
+  name: "Villa Bernasconi"
+  address: "Route du Grand-Lancy 8, 1212 Lancy"
 zoo:
   name: "Le Zoo"
   address: "Place des Volontaires 4, 1204 Genève"

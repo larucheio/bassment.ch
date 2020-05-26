@@ -1,6 +1,84 @@
+- date: 28-05-2020
+  venue: "saules"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang aux Saules"
+  cancelled: true
+
+- date: 28-05-2020
+  venue: "villabernasconi"
+  artists:
+    - "bassment"
+  name: "Mai au parc"
+  cancelled: true
+
+- date: 29-05-2020
+  venue: "villabernasconi"
+  artists:
+    - "bassment"
+  name: "Mai au parc"
+  cancelled: true
+
+- date: 04-06-2020
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Actifs - Fête annuelle"
+  cancelled: true
+
+- date: 25-06-2020
+  venue: "saules"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang aux Saules"
+  cancelled: true
+
 - date: 04-07-2020
   venue: "bateaugeneve"
   artists:
     - "bassment"
-  name: "TBA"
+  name: "Carte blanche"
+  cancelled: true
+
+- date: 01-08-2020
+  venue: "meyrin"
+  artists:
+    - "rspt"
+    - "rosalie"
+  name: "1er août à Meyrin"
+  cancelled: true
+
+- date: 13-08-2020
+  venue: "plo"
+  artists:
+    - "bassment"
+  name: "Plein-les-Watts Festival"
+  cancelled: true
+
+- date: 14-08-2020
+  venue: "plo"
+  artists:
+    - "bassment"
+  name: "Plein-les-Watts Festival"
+  cancelled: true
+
+- date: 15-08-2020
+  venue: "plo"
+  artists:
+    - "bassment"
+  name: "Plein-les-Watts Festival"
+  cancelled: true
+
+- date: 21-08-2020
+  venue: "octopode"
+  artists:
+    - "rosalie"
+  name: "Octopode Festival"
+  cancelled: true
+
+- date: 22-08-2020
+  venue: "octopode"
+  artists:
+    - "rosalie"
+  name: "Octopode Festival"
   cancelled: true

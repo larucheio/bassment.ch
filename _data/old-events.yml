@@ -1,8 +1,36 @@
+- date: 16-05-2020
+  venue: "saintjean"
+  artists:
+    - "rosalie"
+  name: "Ville est à vous"
+  cancelled: true
+
 - date: 12-05-2020
   venue: "bateaugeneve"
   artists:
     - "rspt"
   name: "Réouverture de la terrasse du Bateau Genève"
+
+- date: 02-05-2020
+  venue: "bienne"
+  artists:
+    - "bassment"
+  name: "Rad Fyah Festival"
+  cancelled: true
+
+- date: 30-04-2020
+  venue: "saules"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang aux Saules"
+  cancelled: true
+
+- date: 18-04-2020
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Après-Ski - Dernière de la saison!"
+  cancelled: true
 
 - date: 04-04-2020
   venue: "tu"
@@ -24,6 +52,13 @@
   artists:
     - "bassment"
   name: "Match des Geneva Seahawks"
+  cancelled: true
+
+- date: 26-03-2020
+  venue: "saules"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang aux Saules"
   cancelled: true
 
 - date: 22-03-2020
