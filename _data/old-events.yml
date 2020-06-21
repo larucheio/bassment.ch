@@ -1,3 +1,31 @@
+- date: 04-06-2020
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Actifs - Fête annuelle"
+  cancelled: true
+
+- date: 29-05-2020
+  venue: "villabernasconi"
+  artists:
+    - "bassment"
+  name: "Mai au parc"
+  cancelled: true
+
+- date: 28-05-2020
+  venue: "villabernasconi"
+  artists:
+    - "bassment"
+  name: "Mai au parc"
+  cancelled: true
+
+- date: 28-05-2020
+  venue: "saules"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang aux Saules"
+  cancelled: true
+
 - date: 16-05-2020
   venue: "saintjean"
   artists:
