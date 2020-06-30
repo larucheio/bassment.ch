@@ -1,3 +1,10 @@
+- date: 25-06-2020
+  venue: "saules"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang aux Saules"
+  cancelled: true
+
 - date: 04-06-2020
   venue: "geneve"
   artists:

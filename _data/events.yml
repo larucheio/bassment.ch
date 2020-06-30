@@ -1,9 +1,9 @@
-- date: 25-06-2020
-  venue: "saules"
+- date: 03-07-2020
+  venue: "fonderiekugler"
   artists:
     - "thermoz"
-  name: "Therm0z Gang aux Saules"
-  cancelled: true
+  name: "Shakin' Night"
+  link: "https://www.facebook.com/events/s/shakin-night/1108258966222370/"
 
 - date: 04-07-2020
   venue: "bateaugeneve"

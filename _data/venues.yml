@@ -19,6 +19,9 @@ dariopizzeria:
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
+fonderiekugler:
+  name: "Fonderie Kügler"
+  address: "Rue de la Truite 4 bis, 1205 Genève"
 geneve:
   name: "Genève"
   address: "Genève"
