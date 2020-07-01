@@ -4,6 +4,7 @@
     - "thermoz"
   name: "Shakin' Night"
   link: "https://www.facebook.com/events/s/shakin-night/1108258966222370/"
+  cancelled: true
 
 - date: 04-07-2020
   venue: "bateaugeneve"
