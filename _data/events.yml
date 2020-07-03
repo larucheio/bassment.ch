@@ -13,12 +13,23 @@
   name: "Carte blanche"
   cancelled: true
 
+- date: 23-07-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
+
+- date: 01-08-2020
+  venue: "meyrin"
+  artists:
+    - "rosalie"
+  name: "1er août à Meyrin"
+
 - date: 01-08-2020
   venue: "meyrin"
   artists:
     - "rspt"
-    - "rosalie"
-  name: "1er août à Meyrin"
+  name: "1er août à Meyrin - All style"
   cancelled: true
 
 - date: 13-08-2020
@@ -27,6 +38,12 @@
     - "bassment"
   name: "Plein-les-Watts Festival"
   cancelled: true
+
+- date: 14-08-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
 
 - date: 14-08-2020
   venue: "plo"
@@ -43,6 +60,12 @@
   cancelled: true
 
 - date: 21-08-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "All Style"
+
+- date: 21-08-2020
   venue: "octopode"
   artists:
     - "rosalie"
@@ -55,3 +78,15 @@
     - "rosalie"
   name: "Octopode Festival"
   cancelled: true
+
+- date: 05-09-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Fuck it & Dance"
+
+- date: 12-09-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho caliente"
