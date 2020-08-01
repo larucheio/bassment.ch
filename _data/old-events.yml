@@ -1,3 +1,9 @@
+- date: 24-07-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
+
 - date: 04-07-2020
   venue: "bateaugeneve"
   artists:

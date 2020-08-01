@@ -1,9 +1,3 @@
-- date: 24-07-2020
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Mucho Caliente"
-
 - date: 01-08-2020
   venue: "meyrin"
   artists:
@@ -15,6 +9,13 @@
   artists:
     - "rspt"
   name: "1er août à Meyrin - All style"
+  cancelled: true
+
+- date: 07-08-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Hip-Hop All Style"
   cancelled: true
 
 - date: 13-08-2020
@@ -29,6 +30,7 @@
   artists:
     - "rspt"
   name: "Mucho Caliente"
+  cancelled: true
 
 - date: 14-08-2020
   venue: "plo"
@@ -49,6 +51,7 @@
   artists:
     - "rspt"
   name: "All Style"
+  cancelled: true
 
 - date: 21-08-2020
   venue: "octopode"
