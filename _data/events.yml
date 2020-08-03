@@ -1,16 +1,3 @@
-- date: 01-08-2020
-  venue: "meyrin"
-  artists:
-    - "rosalie"
-  name: "1er août à Meyrin"
-
-- date: 01-08-2020
-  venue: "meyrin"
-  artists:
-    - "rspt"
-  name: "1er août à Meyrin - All style"
-  cancelled: true
-
 - date: 07-08-2020
   venue: "parfumerie"
   artists:
