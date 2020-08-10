@@ -1,10 +1,3 @@
-- date: 07-08-2020
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Hip-Hop All Style"
-  cancelled: true
-
 - date: 13-08-2020
   venue: "plo"
   artists:

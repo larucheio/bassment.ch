@@ -1,3 +1,10 @@
+- date: 07-08-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Hip-Hop All Style"
+  cancelled: true
+
 - date: 01-08-2020
   venue: "meyrin"
   artists:
