@@ -23,7 +23,16 @@
   venue: "parfumerie"
   artists:
     - "rspt"
-  name: "Fuck it & Dance"
+  name: "Fuck it & Dance w/ Jest"
+  cancelled: true
+
+- date: 09-09-2020
+  venue: "makhno"
+  artists:
+    - "rspt"
+    - "till"
+  name: "Reggae night w/ Rudeness & Humanity Sound System"
+  cancelled: true
 
 - date: 12-09-2020
   venue: "parfumerie"
