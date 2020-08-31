@@ -1,24 +1,3 @@
-- date: 21-08-2020
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "All Style"
-  cancelled: true
-
-- date: 21-08-2020
-  venue: "octopode"
-  artists:
-    - "rosalie"
-  name: "Octopode Festival"
-  cancelled: true
-
-- date: 22-08-2020
-  venue: "octopode"
-  artists:
-    - "rosalie"
-  name: "Octopode Festival"
-  cancelled: true
-
 - date: 05-09-2020
   venue: "parfumerie"
   artists:
@@ -39,3 +18,9 @@
   artists:
     - "rspt"
   name: "Mucho caliente"
+
+- date: 19-09-2020
+  venue: "pavillonbleu"
+  artists:
+    - "rspt"
+  name: "Vernissage de PAC(O) w/ Little Lion"

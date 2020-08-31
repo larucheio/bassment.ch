@@ -52,6 +52,9 @@ octopode:
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
+pavillonbleu:
+  name: "Pavillon Bleu"
+  address: "Les Grottes, Rue des Amis 6, 1201 Genève"
 plo:
   name: "Plan-les-Ouates"
   address: "Chemin de la Butte 20, 1228 Plan-les-Ouates"
