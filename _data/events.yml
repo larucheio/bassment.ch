@@ -18,9 +18,10 @@
   artists:
     - "rspt"
   name: "Mucho caliente"
+  cancelled: true
 
 - date: 19-09-2020
   venue: "pavillonbleu"
   artists:
     - "rspt"
-  name: "Vernissage de PAC(O) w/ Little Lion"
+  name: "Vernissage de PAC(O) w/ Petit Bizet (Les Ambianceurs)"
