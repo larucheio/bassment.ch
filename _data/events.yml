@@ -1,28 +1,12 @@
-- date: 05-09-2020
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Fuck it & Dance w/ Jest"
-  cancelled: true
-
-- date: 09-09-2020
-  venue: "makhno"
-  artists:
-    - "rspt"
-    - "till"
-  name: "Reggae night w/ Rudeness & Humanity Sound System"
-  cancelled: true
-
-- date: 12-09-2020
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Mucho caliente"
-  cancelled: true
-
 - date: 19-09-2020
   venue: "pavillonbleu"
   artists:
     - "rspt"
   name: "Vernissage de PAC(O) w/ Petit Bizet (Les Ambianceurs)"
   link: "https://paco-web.ch/"
+
+- date: 22-10-2020
+  venue: "saules"
+  artists:
+    - "rspt"
+  name: "TBA"

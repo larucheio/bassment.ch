@@ -1,3 +1,25 @@
+- date: 12-09-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho caliente"
+  cancelled: true
+
+- date: 09-09-2020
+  venue: "makhno"
+  artists:
+    - "rspt"
+    - "till"
+  name: "Reggae night w/ Rudeness & Humanity Sound System"
+  cancelled: true
+
+- date: 05-09-2020
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Fuck it & Dance w/ Jest"
+  cancelled: true
+
 - date: 22-08-2020
   venue: "octopode"
   artists:
