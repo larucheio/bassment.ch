@@ -1,12 +1,6 @@
-- date: 08-10-2020
-  venue: "makhno"
-  artists:
-    - "till"
-    - "reda"
-  name: "Reggae"
-
 - date: 22-10-2020
   venue: "saules"
   artists:
     - "rspt"
   name: "TBA"
+  cancelled: true
