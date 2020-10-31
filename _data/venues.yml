@@ -16,6 +16,9 @@ champmesle:
 dariopizzeria:
   name: "Dario's Pizzeria"
   address: "Rue de Montchoisy 4, 1207 Genève"
+djr:
+  name: "DJ-R"
+  address: "Rue Benjamin-Franklin 4, 1201 Genève"
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
