@@ -10,15 +10,24 @@ bateaugeneve:
 bienne:
   name: "Bienne"
   address: "Bienne"
+big2019:
+  name: "BIG Festival"
+  address: "Rue de Lyon 110, 1203 Genève"
 champmesle:
   name: "Champmeslé"
   address: "Rue Jean, Rue Jacques-Dalphin 53, 1227 Carouge"
+chancy:
+  name: "Chancy"
+  address: "Chancy"
 dariopizzeria:
   name: "Dario's Pizzeria"
   address: "Rue de Montchoisy 4, 1207 Genève"
 djr:
   name: "DJ-R"
   address: "Rue Benjamin-Franklin 4, 1201 Genève"
+escale:
+  name: "L'escale"
+  address: "Rade de Genève, 1200 Genève"
 etablons:
   name: "Établons / Tzoumaz"
   address: "Rue des Portes, 1918 Riddes"
@@ -58,9 +67,21 @@ parfumerie:
 pavillonbleu:
   name: "Pavillon Bleu"
   address: "Les Grottes, Rue des Amis 6, 1201 Genève"
+perle:
+  name: "Perle du Lac"
+  address: "Rue de Lausanne, 1202 Genève"
+pickwick:
+  name: "Mr Pickwick"
+  address: "Rue de Lausanne 80, 1202 Genève"
 plo:
   name: "Plan-les-Ouates"
   address: "Chemin de la Butte 20, 1228 Plan-les-Ouates"
+pointe:
+  name: "Pointe de la Jonction"
+  address: "Sentier des Saules 3, 1205 Genève"
+porteous:
+  name: "Porteous"
+  address: "Chemin de la Verseuse, 1219 Vernier"
 ramada:
   name: "Hôtel Ramada"
   address: "10-12, Route des Jeunes, 1227 Genève"
@@ -70,9 +91,15 @@ rousseau:
 saintjean:
   name: "Saint-Jean"
   address: "Saint-Jean, 1203 Genève"
+sallecommunalegrandlancy:
+  name: "Salle communale de Grand-Lancy"
+  address: "Route du Grand-Lancy 64, 1212 Lancy"
 saules:
   name: "Les Saules"
   address: "Sentier des Saules 3, 1205 Genève"
+square:
+  name: "The Square / Pop-Up Store"
+  address: "2-4 rue du Diorama, 1204 Genève"
 tbar:
   name: "T-Bar / Tzoumaz"
   address: "Rue de la Télécabine 7, 1918 La Tzoumaz"
@@ -97,3 +124,6 @@ villabernasconi:
 zoo:
   name: "Le Zoo"
   address: "Place des Volontaires 4, 1204 Genève"
+zooloo:
+  name: "Zooloo Festival"
+  address: "Grève Nautique, 1290 Versoix"

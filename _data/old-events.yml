@@ -493,3 +493,211 @@
   artists:
     - "rspt"
   name: "50 ans du Collège Rousseau w/ Brachoï"
+
+- date: 28-09-2019
+  venue: "rousseau"
+  artists:
+    - "rspt"
+  name: "50 ans du Collège Rousseau w/ Brachoï"
+
+- date: 27-09-2019
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Manifestation climat"
+
+- date: 26-09-2019
+  venue: "nadir"
+  artists:
+    - "bassment"
+  name: "K-raoké"
+
+- date: 20-09-2019
+  venue: "meyrin"
+  artists:
+    - "rspt"
+  name: "Sub Session - Soirée des bénévoles"
+
+- date: 20-09-2019
+  venue: "meyrin"
+  artists:
+    - "bassment"
+  name: "Fesses-tival"
+
+- date: 14-09-2019
+  venue: "bateaugeneve"
+  artists:
+    - "rspt"
+    - "thermoz"
+    - "youri"
+  name: "Latino / Reggaeton / Dancehall"
+
+- date: 14-09-2019
+  venue: "chancy"
+  artists:
+    - "bassment"
+  name: "Presbytère"
+
+- date: 17-09-2019
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Mariage w/ Hermanos Perdidos"
+
+- date: 06-09-2019
+  venue: "zooloo"
+  artists:
+    - "bassment"
+  name: "Reggae to Psytrance"
+
+- date: 05-09-2019
+  venue: "perle"
+  artists:
+    - "bassment"
+  name: "30 ans de L'Usine - Sound system meeting w/ Skankin' Society & Ubik"
+
+- date: 31-08-2019
+  venue: "makhno"
+  artists:
+    - "bassment"
+  name: "Sound System Saturday w/ B-Sides"
+
+- date: 24-08-2019
+  venue: "octopode"
+  artists:
+    - "bassment"
+  name: "Octopode Festival - Soirée bénévoles"
+
+- date: 24-08-2019
+  venue: "octopode"
+  artists:
+    - "rosalie"
+  name: "Octopode Festival"
+
+- date: 23-08-2019
+  venue: "octopode"
+  artists:
+    - "rosalie"
+  name: "Octopode Festival"
+
+- date: 23-08-2019
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+    - "youri"
+  name: "Latino All Style"
+
+- date: 17-08-2019
+  venue: "graviere"
+  artists:
+    - "bassment"
+    - "thermoz"
+  name: "Pleins-les-Watts festival - After w/ Roots Raid, Cookah, Likkle Ferguson & Humanity"
+
+- date: 10-08-2019
+  venue: "bateaugeneve"
+  artists:
+    - "rspt"
+  name: "Fêtes de Genève - Grands feux - All Style w/ Loulou"
+
+- date: 03-08-2019
+  venue: "parfumerie"
+  artists:
+    - "bassment"
+  name: "Latino All Style"
+
+- date: 31-07-2019
+  venue: "porteous"
+  artists:
+    - "bassment"
+  name: "Teuf"
+
+- date: 27-07-2019
+  venue: "square"
+  artists:
+    - "rspt"
+  name: "Exposition de Physical Graffiti - Décrochage"
+
+- date: 26-07-2019
+  venue: "escale"
+  artists:
+    - "bassment"
+  name: "Latino / Dancehall"
+
+- date: 20-07-2019
+  venue: "square"
+  artists:
+    - "rspt"
+  name: "Exposition de Physical Graffiti - Vernissage"
+
+- date: 13-07-2019
+  venue: "porteous"
+  artists:
+    - "150"
+  name: "150 x Porteous w/ Vico, More-Ice, Math Stoney, Stranacorpus & A-leks"
+
+- date: 06-07-2019
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Geneva Pride"
+
+- date: 05-07-2019
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Paradis fiscal"
+
+- date: 30-06-2019
+  venue: "big2019"
+  artists:
+    - "bassment"
+  name: "Big Bang Soundsystem w/ Natural Skankin & OBF"
+
+- date: 22-06-2019
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Fête privée"
+
+- date: 19-06-2019
+  venue: "pickwick"
+  artists:
+    - "rspt"
+  name: "All Style"
+
+- date: 19-06-2019
+  venue: "nadir"
+  artists:
+    - "bassment"
+  name: "K-raoké"
+
+- date: 14-06-2019
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Soirée d'entreprise"
+
+- date: 14-06-2019
+  venue: "geneve"
+  artists:
+    - "rosalie"
+  name: "Grève féministe"
+
+- date: 08-06-2019
+  venue: "pointe"
+  artists:
+    - "bassment"
+  name: "Reggae w/ Skankin' Society"
+
+- date: 06-06-2019
+  venue: "graviere"
+  artists:
+    - "bassment"
+  name: "Vernissage de l'album de Najavibes"
+
+- date: 06-06-2019
+  venue: "sallecommunalegrandlancy"
+  artists:
+    - "rspt"
+  name: "Actifs - Fête annuelle"
