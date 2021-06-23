@@ -1,3 +1,27 @@
+- date: 17-06-2021
+  venue: "nadir"
+  artists:
+    - "bassment"
+  name: "Jam NADIR"
+
+- date: 05-06-2021
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Mariage"
+
+- date: 07-05-2021
+  venue: "streaming"
+  artists:
+    - "rspt"
+  name: "Sonar"
+
+- date: 03-03-2021
+  venue: "djr"
+  artists:
+    - "bassment"
+  name: "rspt & Till - Reggae (livestream)"
+
 - date: 31-10-2020
   venue: "djr"
   artists:

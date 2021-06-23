@@ -1,5 +1,35 @@
-- date: 03-03-2021
-  venue: "djr"
+- date: 09-07-2021
+  venue: "villabernasconi"
+  artists:
+    - "youri"
+    - "jerem"
+    - "rspt"
+  name: "Mai au parc"
+  link: https://www.facebook.com/events/132719792290210
+
+- date: 10-07-2021
+  venue: "villabernasconi"
+  artists:
+    - "reda"
+    - "seba"
+  name: "Mai au parc"
+  link: https://www.facebook.com/events/132719792290210
+
+- date: 07-08-2021
+  venue: "ajafest"
   artists:
     - "bassment"
-  name: "rspt & Till - Reggae (livestream)"
+  name: "AJAFEST 2021 - w/ Haspar, Eziah& Radikal Vibration"
+  link: https://www.facebook.com/events/191712956066048
+
+- date: 18-08-2021
+  venue: "saintjean"
+  artists:
+    - "thermoz"
+  name: "MQ St-Jean"
+
+- date: 25-09-2021
+  venue: "unimail"
+  artists:
+    - "mlg"
+  name: "UNIPARTY - Mojo Jojo & Grofilou"

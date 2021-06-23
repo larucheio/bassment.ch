@@ -4,6 +4,9 @@
 abarc:
   name: "ABARC"
   address: "Route de Vernier 151, 1214 Vernier"
+ajafest:
+  name: "AJAFEST - Anières"
+  address: "Chemin de boret, 1247 Anières"
 bateaugeneve:
   name: "Bateau Genève"
   address: "Quai Gustave-Ador 1, 1207 Genève"
@@ -100,6 +103,9 @@ saules:
 square:
   name: "The Square / Pop-Up Store"
   address: "2-4 rue du Diorama, 1204 Genève"
+streaming:
+  name: "Streaming"
+  address: "Streaming"
 tbar:
   name: "T-Bar / Tzoumaz"
   address: "Rue de la Télécabine 7, 1918 La Tzoumaz"
