@@ -1,26 +1,15 @@
-- date: 09-07-2021
-  venue: "villabernasconi"
-  artists:
-    - "youri"
-    - "jerem"
-    - "rspt"
-  name: "Mai au parc"
-  link: https://www.facebook.com/events/132719792290210
-
-- date: 10-07-2021
-  venue: "villabernasconi"
-  artists:
-    - "reda"
-    - "seba"
-  name: "Mai au parc"
-  link: https://www.facebook.com/events/132719792290210
-
 - date: 07-08-2021
   venue: "ajafest"
   artists:
     - "bassment"
   name: "AJAFEST 2021 - w/ Haspar, Eziah & Radikal Vibration"
   link: https://www.facebook.com/events/191712956066048
+
+- date: 15-08-2021
+  venue: "pointe"
+  artists:
+    - "reda"
+  name: "Tropical - 17h-19h"
 
 - date: 18-08-2021
   venue: "saintjean"

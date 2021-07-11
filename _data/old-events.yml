@@ -1,3 +1,20 @@
+- date: 10-07-2021
+  venue: "villabernasconi"
+  artists:
+    - "reda"
+    - "seba"
+  name: "Mai au parc"
+  link: https://www.facebook.com/events/132719792290210
+
+- date: 09-07-2021
+  venue: "villabernasconi"
+  artists:
+    - "youri"
+    - "jerem"
+    - "rspt"
+  name: "Mai au parc"
+  link: https://www.facebook.com/events/132719792290210
+
 - date: 17-06-2021
   venue: "nadir"
   artists:
