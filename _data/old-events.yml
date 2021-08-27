@@ -1,3 +1,22 @@
+- date: 18-08-2021
+  venue: "saintjean"
+  artists:
+    - "thermoz"
+  name: "MQ St-Jean"
+
+- date: 15-08-2021
+  venue: "pointe"
+  artists:
+    - "reda"
+  name: "Tropical - 17h-19h"
+
+- date: 07-08-2021
+  venue: "ajafest"
+  artists:
+    - "bassment"
+  name: "AJAFEST 2021 - w/ Haspar, Eziah & Radikal Vibration"
+  link: https://www.facebook.com/events/191712956066048
+
 - date: 10-07-2021
   venue: "villabernasconi"
   artists:

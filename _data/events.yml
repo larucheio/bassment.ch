@@ -1,24 +1,20 @@
-- date: 07-08-2021
-  venue: "ajafest"
+- date: 28-08-2021
+  venue: "porteous"
   artists:
     - "bassment"
-  name: "AJAFEST 2021 - w/ Haspar, Eziah & Radikal Vibration"
-  link: https://www.facebook.com/events/191712956066048
+  name: "3 ANS! ET MAINTENANT, LA SUITE."
+  link: "https://www.facebook.com/events/550045109449252/"
 
-- date: 15-08-2021
-  venue: "pointe"
+- date: 28-08-2021
+  venue: "parfumerie"
   artists:
-    - "reda"
-  name: "Tropical - 17h-19h"
-
-- date: 18-08-2021
-  venue: "saintjean"
-  artists:
-    - "thermoz"
-  name: "MQ St-Jean"
+    - "rspt"
+  name: "Cruisin' Radio - HH/R&B 90-2010's"
+  link: "https://www.facebook.com/events/1068064520598763"
 
 - date: 25-09-2021
   venue: "unimail"
   artists:
     - "mlg"
   name: "UNIPARTY - Mojo Jojo & Grofilou"
+  cancelled: true
