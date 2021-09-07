@@ -22,6 +22,9 @@ champmesle:
 chancy:
   name: "Chancy"
   address: "Chancy"
+chateaupalud:
+  name: "Château de la Palud"
+  address: "2031 Rue de Broise, 74150 Moye, France"
 dariopizzeria:
   name: "Dario's Pizzeria"
   address: "Rue de Montchoisy 4, 1207 Genève"

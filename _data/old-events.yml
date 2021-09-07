@@ -1,3 +1,29 @@
+- date: 05-09-2021
+  venue: "pointe"
+  artists:
+    - "till"
+  name: "17h-19h"
+
+- date: 04-09-2021
+  venue: "chateaupalud"
+  artists:
+    - "rspt"
+  name: "Mariage"
+
+- date: 28-08-2021
+  venue: "porteous"
+  artists:
+    - "bassment"
+  name: "3 ANS! ET MAINTENANT, LA SUITE."
+  link: "https://www.facebook.com/events/550045109449252/"
+
+- date: 28-08-2021
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Cruisin' Radio - HH/R&B 90-2010's"
+  link: "https://www.facebook.com/events/1068064520598763"
+
 - date: 18-08-2021
   venue: "saintjean"
   artists:
