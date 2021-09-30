@@ -67,6 +67,9 @@ nadir:
 octopode:
   name: "Campagne-Charnaux"
   address: "Rue de la Campagne-Charnaux, 1217 Meyrin"
+paco:
+  name: "PAC(O)"
+  address: "Rue Jacques-Grosselin 50c, 1227 Carouge"
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
@@ -124,6 +127,9 @@ tu:
 unimail:
   name: "Uni-Mail"
   address: "Boulevard du Pont-d'Arve 40, 1205 Genève"
+vergers:
+  name: "Quartier Les Vergers"
+  address: "Rue des Arpenteurs 4, 1217 Meyrin"
 vessy:
   name: "Centre sportif de Vessy"
   address: "Route de Vessy 31, 1234 Vessy"

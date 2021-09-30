@@ -1,3 +1,24 @@
+- date: 25-09-2021
+  venue: "unimail"
+  artists:
+    - "mlg"
+  name: "UNIPARTY - Mojo Jojo & Grofilou"
+  cancelled: true
+
+- date: 18-09-2021
+  venue: "mqspot"
+  artists:
+    - "gonzo"
+    - "rspt"
+  name: "Animations Breakdance & musique"
+
+- date: 11-09-2021
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Booty Shake"
+  link: https://www.facebook.com/events/430558295052029
+
 - date: 05-09-2021
   venue: "pointe"
   artists:

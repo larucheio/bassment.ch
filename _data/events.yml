@@ -1,13 +1,12 @@
-- date: 11-09-2021
-  venue: "parfumerie"
+- date: 02-10-2021
+  venue: "vergers"
+  artists:
+    - "bassment"
+  name: "Fête des Vergers"
+
+- date: 08-10-2021
+  venue: "paco"
   artists:
     - "rspt"
-  name: "Booty Shake"
-  link: https://www.facebook.com/events/430558295052029
-
-- date: 25-09-2021
-  venue: "unimail"
-  artists:
-    - "mlg"
-  name: "UNIPARTY - Mojo Jojo & Grofilou"
-  cancelled: true
+  name: "Soirée de soutien à l'association PAC(O) w/ Petit Bizet"
+  link: "https://paco-web.ch/"
