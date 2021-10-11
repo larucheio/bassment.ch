@@ -31,6 +31,9 @@ dariopizzeria:
 djr:
   name: "DJ-R"
   address: "Rue Benjamin-Franklin 4, 1201 Genève"
+domainecollex:
+  name: "Domaine du Château de Collex"
+  address: "Chem. des Chaumets, 1239 Collex-Bossy"
 escale:
   name: "L'escale"
   address: "Rade de Genève, 1200 Genève"

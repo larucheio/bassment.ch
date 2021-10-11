@@ -1,3 +1,22 @@
+- date: 09-10-2021
+  venue: "domainecollex"
+  artists:
+    - "rspt"
+  name: "Mariage"
+
+- date: 08-10-2021
+  venue: "paco"
+  artists:
+    - "rspt"
+  name: "Soirée de soutien à l'association PAC(O) w/ Petit Bizet"
+  link: "https://paco-web.ch/"
+
+- date: 02-10-2021
+  venue: "vergers"
+  artists:
+    - "bassment"
+  name: "Fête des Vergers"
+
 - date: 25-09-2021
   venue: "unimail"
   artists:
