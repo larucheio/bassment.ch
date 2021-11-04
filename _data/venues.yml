@@ -7,6 +7,9 @@ abarc:
 ajafest:
   name: "AJAFEST - Anières"
   address: "Chemin de boret, 1247 Anières"
+alambic:
+  name: "Alambic"
+  address: "Rue de la Place-d'Armes 13, 2114 Fleurier"
 bateaugeneve:
   name: "Bateau Genève"
   address: "Quai Gustave-Ador 1, 1207 Genève"
@@ -49,6 +52,9 @@ geneve:
 graviere:
   name: "La Gravière"
   address: "Chemin de la Gravière 9, 1227 Genève"
+groove:
+  name: "Le Groove"
+  address: "Bd de Saint-Georges 21, 1205 Genève"
 makhno:
   name: "La Makhno"
   address: "Place des Volontaires 4, 1204 Genève"

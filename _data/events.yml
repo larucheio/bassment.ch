@@ -1,6 +1,18 @@
-- date: 22-10-2021
-  venue: "parfumerie"
+- date: 05-11-2021
+  venue: "groove"
+  artists:
+    - "thermoz"
+  name: "Opening du Groove - W/ Cocalisa, House Of The Rising Fun, Iguane & Cold Bath"
+  link: https://legroove.ch/
+
+- date: 19-11-2021
+  venue: "alambic"
   artists:
     - "rspt"
-  name: "All Style"
-  link: https://www.facebook.com/events/1196541260868860
+  name: "rspt & Jeff Erson - All Style"
+
+- date: 26-11-2021
+  venue: "groove"
+  artists:
+    - "rspt"
+  name: "Sub-Session w/ Versatile, Cardiac & Bak XIII"

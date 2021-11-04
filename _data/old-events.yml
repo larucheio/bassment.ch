@@ -1,3 +1,10 @@
+- date: 22-10-2021
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "All Style"
+  link: https://www.facebook.com/events/1196541260868860
+
 - date: 09-10-2021
   venue: "domainecollex"
   artists:
