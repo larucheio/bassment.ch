@@ -103,6 +103,9 @@ porteous:
 ramada:
   name: "Hôtel Ramada"
   address: "10-12, Route des Jeunes, 1227 Genève"
+refugesauvabelin:
+  name: "Refuge de Sauvabelin"
+  address: "Route de la Clochatte 7, 1018 Lausanne"
 rousseau:
   name: "Collège Rousseau"
   address: "Avenue du Bouchet 16A, 1209 Genève"
