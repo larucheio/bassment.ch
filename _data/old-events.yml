@@ -1,3 +1,15 @@
+- date: 22-12-2021
+  venue: "marchechenebourg"
+  artists:
+    - "rspt"
+  name: "All Style - Animation au Marché de Chêne-Bourg"
+
+- date: 03-12-2021
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "All Style"
+
 - date: 26-11-2021
   venue: "groove"
   artists:

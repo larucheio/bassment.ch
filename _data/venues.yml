@@ -55,12 +55,18 @@ graviere:
 groove:
   name: "Le Groove"
   address: "Bd de Saint-Georges 21, 1205 Genève"
+jonquille:
+  name: "La Jonquille"
+  address: "Chem. du 23-Août 3, 1205 Genève"
 makhno:
   name: "La Makhno"
   address: "Place des Volontaires 4, 1204 Genève"
 mambo:
   name: "Mambo"
   address: "Rue de Monthoux 60, 1201 Genève"
+marchechenebourg:
+  name: "Marché de Chêne-Bourg"
+  address: "Av. Petit-Senn 46, 1225 Chêne-Bourg"
 meyrin:
   name: "Meyrin"
   address: "1217 Meyrin"
