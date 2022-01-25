@@ -1,3 +1,15 @@
+- date: 22-01-2022
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Soirée privée"
+
+- date: 22-01-2022
+  venue: "jonquille"
+  artists:
+    - "bassment"
+  name: "Bassment! @La Jonquille"
+
 - date: 22-12-2021
   venue: "marchechenebourg"
   artists:

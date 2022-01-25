@@ -88,6 +88,9 @@ paco:
 parfumerie:
   name: "Parfumerie"
   address: "Chemin de la Gravière 7, 1227 Genève"
+patinoireplw:
+  name: "Patinoire hivernale de Plan-les-Ouates"
+  address: "Rte des Chevaliers-de-Malte 15, 1228 Plan-les-Ouates"
 pavillonbleu:
   name: "Pavillon Bleu"
   address: "Les Grottes, Rue des Amis 6, 1201 Genève"
