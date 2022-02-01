@@ -46,6 +46,9 @@ etablons:
 fonderiekugler:
   name: "Fonderie Kügler"
   address: "Rue de la Truite 4 bis, 1205 Genève"
+fribourg:
+  name: "Fribourg"
+  address: "Fribourg"
 geneve:
   name: "Genève"
   address: "Genève"

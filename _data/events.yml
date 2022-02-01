@@ -1,8 +1,9 @@
-- date: 29-01-2022
-  venue: "patinoireplw"
+- date: 05-02-2022
+  venue: "parfumerie"
   artists:
     - "rspt"
-  name: "Fun'Hockey"
+  name: "Mucho caliente"
+  link: "https://www.laparfumerie.ch/evenement/soiree-mucho-caliente-3/"
 
 - date: 12-02-2022
   venue: "groove"

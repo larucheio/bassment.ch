@@ -1,3 +1,21 @@
+- date: 29-01-2022
+  venue: "patinoireplw"
+  artists:
+    - "rspt"
+  name: "Fun'Hockey"
+
+- date: 29-01-2022
+  venue: "fribourg"
+  artists:
+    - "bassment"
+  name: "Soirée privée"
+
+- date: 28-01-2022
+  venue: "fribourg"
+  artists:
+    - "bassment"
+  name: "Soirée privée"
+
 - date: 22-01-2022
   venue: "geneve"
   artists:
