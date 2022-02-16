@@ -1,13 +1,7 @@
-- date: 05-02-2022
-  venue: "parfumerie"
+- date: 19-02-2022
+  venue: "depottpgenchardon"
   artists:
+    - "thermoz"
     - "rspt"
-  name: "Mucho caliente"
-  link: "https://www.laparfumerie.ch/evenement/soiree-mucho-caliente-3/"
-
-- date: 12-02-2022
-  venue: "groove"
-  artists:
-    - "rspt"
-  name: "Mosh Pit 2 w/ Stortregn, Athème & Versatile"
-  link: "https://www.facebook.com/events/357203392533752/"
+  name: "Antigel - Roller Skate Party"
+  link: "https://www.antigel.ch/programme/programme/roller-skate-party/"

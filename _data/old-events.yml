@@ -1,3 +1,17 @@
+- date: 12-02-2022
+  venue: "groove"
+  artists:
+    - "rspt"
+  name: "Mosh Pit 2 w/ Stortregn, Athème & Versatile"
+  link: "https://www.facebook.com/events/357203392533752/"
+
+- date: 05-02-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho caliente"
+  link: "https://www.laparfumerie.ch/evenement/soiree-mucho-caliente-3/"
+
 - date: 29-01-2022
   venue: "patinoireplw"
   artists:
@@ -725,6 +739,12 @@
     - "bassment"
   name: "Fesses-tival"
 
+- date: 17-09-2019
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Mariage w/ Hermanos Perdidos"
+
 - date: 14-09-2019
   venue: "bateaugeneve"
   artists:
@@ -739,11 +759,11 @@
     - "bassment"
   name: "Presbytère"
 
-- date: 17-09-2019
+- date: 07-09-2019
   venue: "geneve"
   artists:
-    - "bassment"
-  name: "Mariage w/ Hermanos Perdidos"
+    - "rspt"
+  name: "Mariage"
 
 - date: 06-09-2019
   venue: "zooloo"
@@ -773,13 +793,13 @@
   venue: "octopode"
   artists:
     - "rosalie"
-  name: "Octopode Festival"
+  name: "Octopode Festival - Soirée Reggae"
 
 - date: 23-08-2019
   venue: "octopode"
   artists:
     - "rosalie"
-  name: "Octopode Festival"
+  name: "Octopode Festival - Soirée Metal"
 
 - date: 23-08-2019
   venue: "parfumerie"
@@ -794,6 +814,18 @@
     - "bassment"
     - "thermoz"
   name: "Pleins-les-Watts festival - After w/ Roots Raid, Cookah, Likkle Ferguson & Humanity"
+
+- date: 16-08-2019
+  venue: "plw"
+  artists:
+    - "rspt"
+  name: "Pleins-les-Watts festival - After bénévoles"
+
+- date: 15-08-2019
+  venue: "plw"
+  artists:
+    - "rspt"
+  name: "Pleins-les-Watts festival - After bénévoles"
 
 - date: 10-08-2019
   venue: "bateaugeneve"
@@ -889,7 +921,7 @@
   venue: "pointe"
   artists:
     - "bassment"
-  name: "Reggae w/ Skankin' Society"
+  name: "Rue est à vous Jonction w/ Skankin' Society"
 
 - date: 06-06-2019
   venue: "graviere"
@@ -902,3 +934,21 @@
   artists:
     - "rspt"
   name: "Actifs - Fête annuelle"
+
+- date: 25-05-2019
+  venue: "sallecommunalebernex"
+  artists:
+    - "rspt"
+  name: "Fête privée"
+
+- date: 11-05-2019
+  venue: "porteous"
+  artists:
+    - "bassment"
+  name: "Hermanos Perdidos & B!"
+
+- date: 04-05-2019
+  venue: "terreau"
+  artists:
+    - "mlg"
+  name: "All Style"

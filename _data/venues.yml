@@ -31,6 +31,9 @@ chateaupalud:
 dariopizzeria:
   name: "Dario's Pizzeria"
   address: "Rue de Montchoisy 4, 1207 Genève"
+depottpgenchardon:
+  name: "Dépôt TPG en Chardon"
+  address: "Chem. de Champs Prévost 30, 1214 Vernier"
 djr:
   name: "DJ-R"
   address: "Rue Benjamin-Franklin 4, 1201 Genève"
@@ -106,6 +109,12 @@ pickwick:
 plo:
   name: "Plan-les-Ouates"
   address: "Chemin de la Butte 20, 1228 Plan-les-Ouates"
+plw:
+  name: "Plein-les-Watts"
+  address: "Chemin de la Butte 20, 1228 Plan-les-Ouates"
+plwlancy:
+  name: "Plein-les-Watts"
+  address: "Chem. de la Colline 2, 1212 Lancy"
 pointe:
   name: "Pointe de la Jonction"
   address: "Sentier des Saules 3, 1205 Genève"
@@ -124,6 +133,9 @@ rousseau:
 saintjean:
   name: "Saint-Jean"
   address: "Saint-Jean, 1203 Genève"
+sallecommunalebernex:
+  name: "Salle communale de Bernex"
+  address: "1233 Bernex"
 sallecommunalegrandlancy:
   name: "Salle communale de Grand-Lancy"
   address: "Route du Grand-Lancy 64, 1212 Lancy"
