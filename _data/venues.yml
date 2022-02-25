@@ -148,6 +148,9 @@ square:
 streaming:
   name: "Streaming"
   address: "Streaming"
+taproom:
+  name: "Tap Room"
+  address: "Rue des Grottes 13, 1201 Genève"
 tbar:
   name: "T-Bar / Tzoumaz"
   address: "Rue de la Télécabine 7, 1918 La Tzoumaz"
