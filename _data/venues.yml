@@ -19,6 +19,9 @@ bienne:
 big2019:
   name: "BIG Festival"
   address: "Rue de Lyon 110, 1203 Genève"
+centralstation:
+  name: "Central Station"
+  address: "Rue de la Faucille 2, 1201 Genève"
 champmesle:
   name: "Champmeslé"
   address: "Rue Jean, Rue Jacques-Dalphin 53, 1227 Carouge"
@@ -40,6 +43,9 @@ djr:
 domainecollex:
   name: "Domaine du Château de Collex"
   address: "Chem. des Chaumets, 1239 Collex-Bossy"
+ecurie:
+  name: "Écurie"
+  address: "Rue de Montbrillant 14, 1201 Genève"
 escale:
   name: "L'escale"
   address: "Rade de Genève, 1200 Genève"
@@ -163,6 +169,9 @@ tragedie:
 tu:
   name: "Théâtre de l'Usine"
   address: "Rue de la Coulouvrenière 11, 1204 Genève"
+turbine:
+  name: "Turbine"
+  address: "Rue de la Coulouvrenière 26, 1204 Genève"
 unimail:
   name: "Uni-Mail"
   address: "Boulevard du Pont-d'Arve 40, 1205 Genève"

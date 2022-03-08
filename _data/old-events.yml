@@ -1,3 +1,22 @@
+- date: 26-02-2022
+  venue: "tbar"
+  artists:
+    - "rspt"
+  name: "Carnaval @Tzoumaz"
+
+- date: 26-02-2022
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Après-Ski @Tzoumaz"
+
+- date: 25-02-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Carte blanche! - All Style"
+  link: "https://www.laparfumerie.ch/evenement/bas-les-masques/"
+
 - date: 19-02-2022
   venue: "depottpgenchardon"
   artists:
