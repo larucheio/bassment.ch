@@ -1,3 +1,22 @@
+- date: 25-03-2022
+  venue: "centralstation"
+  artists:
+    - "bassment"
+  name: "TBA"
+
+- date: 24-03-2022
+  venue: "taproom"
+  artists:
+    - "rspt"
+  name: "Hip-Hop"
+
+- date: 25-02-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Jest & rspt - Internet killed the video star"
+  cancelled: true
+
 - date: 26-02-2022
   venue: "tbar"
   artists:
