@@ -1,3 +1,33 @@
+- date: 16-04-2022
+  venue: "unimail"
+  artists:
+    - "rspt"
+  name: "UniParty w/ Losted"
+
+- date: 15-04-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
+
+- date: 13-04-2022
+  venue: "marchechenebourg"
+  artists:
+    - "rspt"
+  name: "All Style - Animation au Marché de Chêne-Bourg"
+
+- date: 09-04-2022
+  venue: "makhno"
+  artists:
+    - "bassment"
+  name: "Sound System Saturday - Drum'N'Bass To Tribe w/ Dser back to the Jungle"
+
+- date: 02-04-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Jest & rspt - Internet killed the video star"
+
 - date: 25-03-2022
   venue: "centralstation"
   artists:

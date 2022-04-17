@@ -1,32 +1,8 @@
-- date: 02-04-2022
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Jest & rspt - Internet killed the video star"
-
-- date: 09-04-2022
-  venue: "makhno"
-  artists:
-    - "bassment"
-  name: "Sound System Saturday - Drum'N'Bass To Tribe w/ Dser back to the Jungle"
-
-- date: 13-04-2022
-  venue: "marchechenebourg"
-  artists:
-    - "rspt"
-  name: "All Style - Animation au Marché de Chêne-Bourg"
-
-- date: 16-04-2022
-  venue: "unimail"
-  artists:
-    - "rspt"
-  name: "UniParty w/ Losted"
-
 - date: 23-04-2022
   venue: "ecurie"
   artists:
     - "bassment"
-  name: "TBA"
+  name: "Bassment! All Starz"
 
 - date: 29-04-2022
   venue: "jonquille"
@@ -40,11 +16,53 @@
     - "bassment"
   name: "TBA"
 
+- date: 05-05-2022
+  venue: "ecurie"
+  artists:
+    - "thermoz"
+  name: "TBA"
+
+- date: 07-05-2022
+  venue: "geneve"
+  artists:
+    - "thermoz"
+  name: "Slutwalk"
+
+- date: 19-05-2022
+  venue: "makhno"
+  artists:
+    - "thermoz"
+  name: "Les Floxs w/ Therm0z"
+
+- date: 21-05-2022
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Jours de fête"
+
+- date: 22-05-2022
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Jours de fête"
+
+- date: 24-05-2022
+  venue: "poloclubveytay"
+  artists:
+    - "rspt"
+  name: "Polo Club"
+
 - date: 27-05-2022
   venue: "villabernasconi"
   artists:
     - "rsptmoricejerem"
   name: "Mai au parc"
+
+- date: 27-05-2022
+  venue: "centralstation"
+  artists:
+    - "thermoz"
+  name: "Therm0z Gang"
 
 - date: 02-06-2022
   venue: "sallecommunalegrandlancy"
