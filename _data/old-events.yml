@@ -1,3 +1,21 @@
+- date: 30-04-2022
+  venue: "turbine"
+  artists:
+    - "bassment"
+  name: "TBA"
+
+- date: 29-04-2022
+  venue: "jonquille"
+  artists:
+    - "bassment"
+  name: "The Uplifters w/ B!"
+
+- date: 23-04-2022
+  venue: "ecurie"
+  artists:
+    - "bassment"
+  name: "Bassment! All Starz"
+
 - date: 16-04-2022
   venue: "unimail"
   artists:

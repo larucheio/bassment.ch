@@ -1,26 +1,8 @@
-- date: 23-04-2022
-  venue: "ecurie"
-  artists:
-    - "bassment"
-  name: "Bassment! All Starz"
-
-- date: 29-04-2022
-  venue: "jonquille"
-  artists:
-    - "bassment"
-  name: "The Uplifters w/ B!"
-
-- date: 30-04-2022
-  venue: "turbine"
-  artists:
-    - "bassment"
-  name: "TBA"
-
 - date: 05-05-2022
   venue: "ecurie"
   artists:
     - "thermoz"
-  name: "TBA"
+  name: "Hermanos Perdidos (live) w/ Ther0z"
 
 - date: 07-05-2022
   venue: "geneve"
@@ -81,3 +63,58 @@
   artists:
     - "rspt"
   name: "Mariage"
+
+- date: 19-06-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Anniversaire"
+
+- date: 24-06-2022
+  venue: "Lancy"
+  artists:
+    - "bassment"
+  name: "Fête de la musique - Lancy"
+
+- date: 25-06-2022
+  venue: "Lancy"
+  artists:
+    - "bassment"
+  name: "Fête de la musique - Lancy"
+
+- date: 25-06-2022
+  venue: "makhno"
+  artists:
+    - "till"
+    - "rspt"
+  name: "After Fête de la musique"
+
+- date: 02-07-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Anniversaire"
+
+- date: 10-07-2022
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Firefly Festival"
+
+- date: 01-08-2022
+  venue: "meyrin"
+  artists:
+    - "rspt"
+  name: "1er Août - Meyrin"
+
+- date: 19-08-2022
+  venue: "octopode"
+  artists:
+    - "bassment"
+  name: "Octopode Festival"
+
+- date: 20-08-2022
+  venue: "octopode"
+  artists:
+    - "bassment"
+  name: "Octopode Festival"

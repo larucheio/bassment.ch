@@ -70,6 +70,9 @@ groove:
 jonquille:
   name: "La Jonquille"
   address: "Chem. du 23-Août 3, 1205 Genève"
+lancy:
+  name: "Lancy"
+  address: "Lancy"
 makhno:
   name: "La Makhno"
   address: "Place des Volontaires 4, 1204 Genève"
