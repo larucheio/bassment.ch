@@ -1,3 +1,15 @@
+- date: 07-05-2022
+  venue: "geneve"
+  artists:
+    - "thermoz"
+  name: "Slutwalk"
+
+- date: 05-05-2022
+  venue: "ecurie"
+  artists:
+    - "thermoz"
+  name: "Hermanos Perdidos (live) w/ Therm0z"
+
 - date: 30-04-2022
   venue: "turbine"
   artists:

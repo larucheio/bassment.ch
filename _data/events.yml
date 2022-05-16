@@ -1,20 +1,20 @@
-- date: 05-05-2022
-  venue: "ecurie"
-  artists:
-    - "thermoz"
-  name: "Hermanos Perdidos (live) w/ Ther0z"
-
-- date: 07-05-2022
-  venue: "geneve"
-  artists:
-    - "thermoz"
-  name: "Slutwalk"
-
 - date: 19-05-2022
   venue: "makhno"
   artists:
     - "thermoz"
   name: "Les Floxs w/ Therm0z"
+
+- date: 20-05-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Lezzzgo w/ Jest"
+
+- date: 21-05-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "80s-90s vs 00s-10s w/ Dj Dada"
 
 - date: 21-05-2022
   venue: "geneve"
