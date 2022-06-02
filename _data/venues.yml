@@ -76,6 +76,9 @@ lancy:
 makhno:
   name: "La Makhno"
   address: "Place des Volontaires 4, 1204 Genève"
+malagny:
+  name: "Domaine du Grand Malagny"
+  address: "Rte de Malagny 48-50, 1294 Genthod"
 mambo:
   name: "Mambo"
   address: "Rue de Monthoux 60, 1201 Genève"
@@ -85,6 +88,9 @@ marchechenebourg:
 meyrin:
   name: "Meyrin"
   address: "1217 Meyrin"
+montperreux:
+  name: "Chalet scout de Montperreux"
+  address: "2052 Fontaines"
 mqspot:
   name: "Maison de Quartier - Le Spot"
   address: "Rue François-Perréard 2, 1225 Chêne-Bourg"
