@@ -1,20 +1,20 @@
-- date: 02-06-2022
-  venue: "sallecommunalegrandlancy"
+- date: 17-06-2022
+  venue: "meyrin"
+  artists:
+    - "thermoz"
+  name: "Meyrin Joy Division"
+
+- date: 18-06-2022
+  venue: "meyrin"
+  artists:
+    - "thermoz"
+  name: "Meyrin Joy Division"
+
+- date: 18-06-2022
+  venue: "satigny"
   artists:
     - "rspt"
-  name: "Actifs - Fête annuelle"
-
-- date: 04-06-2022
-  venue: "ecurie"
-  artists:
-    - "bassment"
-  name: "TBA"
-
-- date: 11-06-2022
-  venue: "geneve"
-  artists:
-    - "rspt"
-  name: "Mariage"
+  name: "Vinathon w/ Petit Bizet"
 
 - date: 19-06-2022
   venue: "geneve"
@@ -47,6 +47,18 @@
     - "rspt"
   name: "Anniversaire"
 
+- date: 08-07-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Parf All Stars"
+
+- date: 09-07-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Beach Please"
+
 - date: 10-07-2022
   venue: "geneve"
   artists:
@@ -70,3 +82,15 @@
   artists:
     - "bassment"
   name: "Octopode Festival"
+
+- date: 24-08-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Soirées sans tubes"
+
+- date: 27-08-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Dj Toots & Guest"

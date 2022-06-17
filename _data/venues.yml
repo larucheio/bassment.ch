@@ -28,6 +28,9 @@ champmesle:
 chancy:
   name: "Chancy"
   address: "Chancy"
+chatnoir:
+  name: "Chat Noir"
+  address: "Rue Vautier 13, 1227 Carouge"
 chateaupalud:
   name: "Château de la Palud"
   address: "2031 Rue de Broise, 74150 Moye, France"
@@ -73,6 +76,9 @@ jonquille:
 lancy:
   name: "Lancy"
   address: "Lancy"
+lereposoir:
+  name: "Le Reposoir"
+  address: "Le Reposoir, 74950, France"
 makhno:
   name: "La Makhno"
   address: "Place des Volontaires 4, 1204 Genève"
@@ -157,6 +163,9 @@ sallecommunalebernex:
 sallecommunalegrandlancy:
   name: "Salle communale de Grand-Lancy"
   address: "Route du Grand-Lancy 64, 1212 Lancy"
+satigny:
+  name: "Satigny"
+  address: "Satigny, 1242 Satigny"
 saules:
   name: "Les Saules"
   address: "Sentier des Saules 3, 1205 Genève"
