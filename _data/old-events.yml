@@ -1,3 +1,52 @@
+- date: 02-07-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Anniversaire"
+
+- date: 25-06-2022
+  venue: "makhno"
+  artists:
+    - "till"
+    - "rspt"
+  name: "After Fête de la musique"
+
+- date: 25-06-2022
+  venue: "Lancy"
+  artists:
+    - "bassment"
+  name: "Fête de la musique - Lancy"
+
+- date: 24-06-2022
+  venue: "Lancy"
+  artists:
+    - "bassment"
+  name: "Fête de la musique - Lancy"
+
+- date: 19-06-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Anniversaire"
+
+- date: 18-06-2022
+  venue: "satigny"
+  artists:
+    - "rspt"
+  name: "Vinathon w/ Petit Bizet"
+
+- date: 18-06-2022
+  venue: "meyrin"
+  artists:
+    - "thermoz"
+  name: "Meyrin Joy Division"
+
+- date: 17-06-2022
+  venue: "meyrin"
+  artists:
+    - "thermoz"
+  name: "Meyrin Joy Division"
+
 - date: 16-06-2022
   venue: "meyrin"
   artists:
