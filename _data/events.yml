@@ -1,20 +1,8 @@
-- date: 08-07-2022
+- date: 23-07-2022
   venue: "parfumerie"
   artists:
     - "rspt"
-  name: "Parf All Stars"
-
-- date: 09-07-2022
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Beach Please"
-
-- date: 10-07-2022
-  venue: "geneve"
-  artists:
-    - "bassment"
-  name: "Firefly Festival"
+  name: "TBA"
 
 - date: 01-08-2022
   venue: "meyrin"

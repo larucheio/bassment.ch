@@ -1,3 +1,21 @@
+- date: 10-07-2022
+  venue: "geneve"
+  artists:
+    - "bassment"
+  name: "Firefly Festival"
+
+- date: 09-07-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Combo All Style"
+
+- date: 08-07-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Parf All Stars"
+
 - date: 02-07-2022
   venue: "geneve"
   artists:
