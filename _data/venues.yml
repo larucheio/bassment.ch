@@ -100,6 +100,9 @@ montperreux:
 mqspot:
   name: "Maison de Quartier - Le Spot"
   address: "Rue François-Perréard 2, 1225 Chêne-Bourg"
+neuchatel:
+  name: "Neuchâtel"
+  address: "2000 Neuchâtel"
 papon:
   name: "Café Papon"
   address: "Rue Henri-Fazy 1, 1204 Genève"
@@ -145,6 +148,9 @@ poloclubveytay:
 porteous:
   name: "Porteous"
   address: "Chemin de la Verseuse, 1219 Vernier"
+puplinges:
+  name: "Puplinges"
+  address: "2114 Puplinges"
 ramada:
   name: "Hôtel Ramada"
   address: "10-12, Route des Jeunes, 1227 Genève"

@@ -1,8 +1,8 @@
-- date: 01-08-2022
-  venue: "meyrin"
+- date: 18-08-2022
+  venue: "puplinges"
   artists:
     - "rspt"
-  name: "1er Août - Meyrin"
+  name: "Puplinges-les-Bains - Ramène ton vinyl"
 
 - date: 19-08-2022
   venue: "octopode"
@@ -15,6 +15,12 @@
   artists:
     - "bassment"
   name: "Octopode Festival"
+
+- date: 20-08-2022
+  venue: "geneve"
+  artists:
+    - "reda"
+  name: "Chaises longues"
 
 - date: 24-08-2022
   venue: "parfumerie"
@@ -33,3 +39,24 @@
   artists:
     - "rspt"
   name: "Anniversaire"
+
+- date: 23-09-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+    - "reda"
+  name: "Fêtes des vendanges"
+
+- date: 24-09-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+    - "reda"
+  name: "Fêtes des vendanges"
+
+- date: 25-09-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+    - "reda"
+  name: "Fêtes des vendanges"
