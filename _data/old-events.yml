@@ -1,3 +1,45 @@
+- date: 03-09-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Anniversaire"
+
+- date: 27-08-2022
+  venue: "chatnoir"
+  artists:
+    - "rspt"
+  name: "Dj Toots & rspt"
+
+- date: 24-08-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Soirées sans tubes"
+
+- date: 20-08-2022
+  venue: "geneve"
+  artists:
+    - "reda"
+  name: "Chaises longues"
+
+- date: 20-08-2022
+  venue: "octopode"
+  artists:
+    - "bassment"
+  name: "Octopode Festival"
+
+- date: 19-08-2022
+  venue: "octopode"
+  artists:
+    - "bassment"
+  name: "Octopode Festival"
+
+- date: 18-08-2022
+  venue: "puplinges"
+  artists:
+    - "rspt"
+  name: "Puplinges-les-Bains - Ramène ton vinyl"
+
 - date: 01-08-2022
   venue: "meyrin"
   artists:
@@ -136,7 +178,7 @@
   artists:
     - "rspt"
   name: "Polo Club"
-1
+
 - date: 22-05-2022
   venue: "geneve"
   artists:
