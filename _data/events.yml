@@ -1,15 +1,3 @@
-- date: 07-09-2022
-  venue: "poloclubveytay"
-  artists:
-    - "rspt"
-  name: "Polo Club"
-
-- date: 17-09-2022
-  venue: "mqspot"
-  artists:
-    - "rspt"
-  name: "Karaoke"
-
 - date: 23-09-2022
   venue: "neuchatel"
   artists:
@@ -31,8 +19,21 @@
     - "reda"
   name: "Fêtes des vendanges"
 
+- date: 28-09-2022
+  venue: "makhno"
+  artists:
+    - "rspt"
+    - "till"
+  name: "Reggae Digital w/ Humanity Sound"
+
 - date: 08-10-2022
   venue: "parfumerie"
   artists:
     - "rspt"
   name: "Parf All-starZ"
+
+- date: 15-10-2022
+  venue: "parfumerie"
+  artists:
+    - "unidufour"
+  name: "UniParty"

@@ -1,3 +1,21 @@
+- date: 17-09-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
+
+- date: 17-09-2022
+  venue: "mqspot"
+  artists:
+    - "rspt"
+  name: "Karaoke"
+
+- date: 07-09-2022
+  venue: "poloclubveytay"
+  artists:
+    - "rspt"
+  name: "Polo Club"
+
 - date: 03-09-2022
   venue: "geneve"
   artists:

@@ -199,6 +199,9 @@ tu:
 turbine:
   name: "Turbine"
   address: "Rue de la Coulouvrenière 26, 1204 Genève"
+unidufour:
+  name: "Uni Dufour"
+  address: "Rue du Général-Dufour 24, 1204 Genève"
 unimail:
   name: "Uni-Mail"
   address: "Boulevard du Pont-d'Arve 40, 1205 Genève"
