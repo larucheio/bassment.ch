@@ -1,39 +1,17 @@
-- date: 23-09-2022
+- date: 22-10-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Soirée privée"
+
+- date: 28-10-2022
   venue: "neuchatel"
   artists:
     - "rspt"
-    - "reda"
-  name: "Fêtes des vendanges"
+  name: "Soirée privée"
 
-- date: 24-09-2022
-  venue: "neuchatel"
+- date: 04-11-2022
+  venue: "saules"
   artists:
-    - "rspt"
-    - "reda"
-  name: "Fêtes des vendanges"
-
-- date: 25-09-2022
-  venue: "neuchatel"
-  artists:
-    - "rspt"
-    - "reda"
-  name: "Fêtes des vendanges"
-
-- date: 28-09-2022
-  venue: "makhno"
-  artists:
-    - "rspt"
-    - "till"
-  name: "Reggae Digital w/ Humanity Sound"
-
-- date: 08-10-2022
-  venue: "parfumerie"
-  artists:
-    - "rspt"
-  name: "Parf All-starZ"
-
-- date: 15-10-2022
-  venue: "parfumerie"
-  artists:
-    - "unidufour"
-  name: "UniParty"
+    - "bassment"
+  name: "TBA"

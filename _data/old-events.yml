@@ -1,3 +1,43 @@
+- date: 15-10-2022
+  venue: "parfumerie"
+  artists:
+    - "unidufour"
+  name: "UniParty"
+
+- date: 08-10-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Parf All-starZ"
+
+- date: 28-09-2022
+  venue: "makhno"
+  artists:
+    - "rspt"
+    - "till"
+  name: "Reggae Digital w/ Humanity Sound"
+
+- date: 25-09-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+    - "reda"
+  name: "Fêtes des vendanges"
+
+- date: 24-09-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+    - "reda"
+  name: "Fêtes des vendanges"
+
+- date: 23-09-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+    - "reda"
+  name: "Fêtes des vendanges"
+
 - date: 17-09-2022
   venue: "parfumerie"
   artists:
