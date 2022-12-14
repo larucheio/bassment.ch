@@ -1,17 +1,23 @@
-- date: 22-10-2022
-  venue: "geneve"
-  artists:
-    - "rspt"
-  name: "Soirée privée"
-
-- date: 28-10-2022
-  venue: "neuchatel"
-  artists:
-    - "rspt"
-  name: "Soirée privée"
-
-- date: 04-11-2022
-  venue: "saules"
+- date: 23-12-2022
+  venue: "kzern"
   artists:
     - "bassment"
-  name: "TBA"
+  name: "Reggae Christmas w/ Skankin' Society & Little Lion"
+
+- date: 24-12-2022
+  venue: "le5eme"
+  artists:
+    - "rspt"
+  name: "24 décembre"
+
+- date: 31-12-2022
+  venue: "tbar"
+  artists:
+    - "rspt"
+  name: "Réveillon"
+
+- date: 28-01-2023
+  venue: "patinoireplw"
+  artists:
+    - "rspt"
+  name: "Fun'Hockey"

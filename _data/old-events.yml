@@ -1,7 +1,55 @@
-- date: 15-10-2022
+- date: 12-12-2022
+  venue: "petitlancy"
+  artists:
+    - "rspt"
+  name: "Escalade"
+
+- date: 09-12-2022
+  venue: "ecoleaire"
+  artists:
+    - "rspt"
+  name: "Escalade"
+
+- date: 08-12-2022
+  venue: "bateaugeneve"
+  artists:
+    - "rspt"
+  name: "Soirée privée"
+
+- date: 25-10-2022
   venue: "parfumerie"
   artists:
-    - "unidufour"
+    - "rspt"
+  name: "00's-20's"
+
+- date: 11-10-2022
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
+
+- date: 04-11-2022
+  venue: "saules"
+  artists:
+    - "bassment"
+  name: "Techno w/ ALIASLOH, Smør&brød Live, More-ice, Sébà & GdB!"
+
+- date: 28-10-2022
+  venue: "neuchatel"
+  artists:
+    - "rspt"
+  name: "Soirée privée"
+
+- date: 22-10-2022
+  venue: "geneve"
+  artists:
+    - "rspt"
+  name: "Soirée privée"
+
+- date: 15-10-2022
+  venue: "unidufour"
+  artists:
+    - "rspt"
   name: "UniParty"
 
 - date: 08-10-2022

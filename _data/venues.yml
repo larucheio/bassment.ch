@@ -46,6 +46,9 @@ djr:
 domainecollex:
   name: "Domaine du Château de Collex"
   address: "Chem. des Chaumets, 1239 Collex-Bossy"
+ecoleaire:
+  name: "École d'Aïre"
+  address: "Chem. du Grand-Champ 11, 1219 Aïre"
 ecurie:
   name: "Écurie"
   address: "Rue de Montbrillant 14, 1201 Genève"
@@ -73,9 +76,15 @@ groove:
 jonquille:
   name: "La Jonquille"
   address: "Chem. du 23-Août 3, 1205 Genève"
+kzern:
+  name: "Kzern"
+  address: "Quai des Vernets 10, 1205 Genève"
 lancy:
   name: "Lancy"
   address: "Lancy"
+le5eme:
+  name: "Le 5e"
+  address: "Pl. de la Gare 5, 1800 Vevey"
 lereposoir:
   name: "Le Reposoir"
   address: "Le Reposoir, 74950, France"
@@ -127,6 +136,9 @@ pavillonbleu:
 perle:
   name: "Perle du Lac"
   address: "Rue de Lausanne, 1202 Genève"
+petitlancy:
+  name: "Salle communale de Petit-Lancy"
+  address: "Av. Louis-Bertrand 7-9, 1213 Petit-Lancy"
 pickwick:
   name: "Mr Pickwick"
   address: "Rue de Lausanne 80, 1202 Genève"
