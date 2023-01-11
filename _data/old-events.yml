@@ -1,3 +1,33 @@
+- date: 07-01-2023
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Mucho Caliente"
+
+- date: 31-12-2022
+  venue: "tbar"
+  artists:
+    - "rspt"
+  name: "Réveillon"
+
+- date: 31-12-2022
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Après-Ski Réveillon"
+
+- date: 30-12-2022
+  venue: "le5eme"
+  artists:
+    - "rspt"
+  name: "24 décembre"
+
+- date: 23-12-2022
+  venue: "kzern"
+  artists:
+    - "bassment"
+  name: "Reggae Christmas w/ Skankin' Society & Little Lion"
+
 - date: 12-12-2022
   venue: "petitlancy"
   artists:
