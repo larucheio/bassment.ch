@@ -10,6 +10,12 @@ ajafest:
 alambic:
   name: "Alambic"
   address: "Rue de la Place-d'Armes 13, 2114 Fleurier"
+api:
+  name: "API Écomusée"
+  address: "Rue du Vuache 25, 1201 Genève"
+aquatis:
+  name: "Aquatis"
+  address: "Rte de Berne 144, 1010 Lausanne"
 bateaugeneve:
   name: "Bateau Genève"
   address: "Quai Gustave-Ador 1, 1207 Genève"
@@ -163,6 +169,9 @@ porteous:
 puplinges:
   name: "Puplinges"
   address: "2114 Puplinges"
+radiousine:
+  name: "Radio-Usine"
+  address: "Place des Volontaires 4, 1204 Genève"
 ramada:
   name: "Hôtel Ramada"
   address: "10-12, Route des Jeunes, 1227 Genève"
