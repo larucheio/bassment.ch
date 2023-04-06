@@ -1,3 +1,41 @@
+- date: 18-03-2023
+  venue: "le5eme"
+  artists:
+    - "rspt"
+  name: "All Style"
+
+- date: 11-03-2023
+  venue: "undertown"
+  artists:
+    - "rspt"
+  name: "Brachoï & Three Feets Cats"
+
+- date: 18-02-2023
+  venue: "tbar"
+  artists:
+    - "rspt"
+  name: "Carnaval"
+
+- date: 18-02-2023
+  venue: "etablons"
+  artists:
+    - "rspt"
+  name: "Après-Ski Carnaval"
+
+- date: 10-02-2023
+  venue: "kzern"
+  artists:
+    - "bassment"
+    - "onefiveo"
+  name: "Bassment! x Stalingrad - Sound System Meeting"
+
+- date: 28-01-2023
+  venue: "patinoireplw"
+  artists:
+    - "rspt"
+  name: "Fun'Hockey"
+  cancelled: true
+
 - date: 07-01-2023
   venue: "parfumerie"
   artists:
