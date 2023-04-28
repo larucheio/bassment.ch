@@ -25,6 +25,9 @@ bienne:
 big2019:
   name: "BIG Festival"
   address: "Rue de Lyon 110, 1203 Genève"
+boissonnerie:
+  name: "La Boissonnerie"
+  address: "Rue du Neubourg 30, 2000 Neuchâtel"
 centralstation:
   name: "Central Station"
   address: "Rue de la Faucille 2, 1201 Genève"

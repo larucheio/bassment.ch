@@ -1,3 +1,27 @@
+- date: 28-04-2023
+  venue: "boissonnerie"
+  artists:
+    - "rspt"
+  name: "Soirée privée"
+
+- date: 22-04-2023
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Combo All-Style"
+
+- date: 21-04-2023
+  venue: "parfumerie"
+  artists:
+    - "rspt"
+  name: "Carte blanche"
+
+- date: 15-04-2023
+  venue: "le5eme"
+  artists:
+    - "rspt"
+  name: "All Style"
+
 - date: 18-03-2023
   venue: "le5eme"
   artists:
